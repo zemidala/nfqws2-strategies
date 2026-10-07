@@ -1,0 +1,33 @@
+{
+ "asn": 215439,
+ "provider": "PLAY2GO-NET PLAY2GO INTERNATIONAL LIMITED",
+ "updated": "2026-10-07T19:35:32Z",
+ "items": [
+  {
+   "id": "6f37595e6dfc",
+   "asn": 215439,
+   "provider": "PLAY2GO-NET PLAY2GO INTERNATIONAL LIMITED",
+   "proto": "tls",
+   "steps": [
+    "--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"
+   ],
+   "targets": [
+    {
+     "asn": 63949
+    }
+   ],
+   "reports": 1,
+   "users": [
+    "1cc4e365fdd3"
+   ],
+   "fails": 0,
+   "fail_users": [],
+   "issues": [
+    4
+   ],
+   "first": "2026-10-07",
+   "last": "2026-10-07",
+   "nfqws2": "1.3.1"
+  }
+ ]
+}

@@ -118,7 +118,70 @@ def record(data, s, login, issue, today):
     return item, new, seen, fresh
 
 
+REPO = 'https://github.com/zemidala/nfqws2-strategies'
+PAGE = 'STRATEGIES.md'
+PROTO = {'tls': 'HTTPS (TLS)', 'http': 'HTTP'}
+
+
+def short(steps):
+    """Короткое имя: «hostfakesplit ×16 + multisplit»."""
+    out = []
+    for s in steps:
+        parts = s.removeprefix('--lua-desync=').split(':')
+        rep = next((p.split('=', 1)[1] for p in parts[1:] if p.startswith('repeats=')), None)
+        out.append(parts[0] + (f' ×{rep}' if rep and rep != '1' else ''))
+    return ' + '.join(out)
+
+
+def render(data):
+    """STRATEGIES.md — та же база, что strategies.json, но для чтения на GitHub."""
+    groups = {}
+    for x in data['items']:
+        groups.setdefault(x['asn'], []).append(x)
+    order = sorted(groups, key=lambda a: (-sum(x['reports'] for x in groups[a]), -len(groups[a]), a))
+    name = lambda a: next((x['provider'] for x in groups[a] if x.get('provider')), '')
+    total = len(data['items'])
+    upd = (data.get('updated') or '—').replace('T', ' ').replace(':00Z', '').rstrip('Z')[:16] + (' UTC' if data.get('updated') else '')
+    L = ['# Strategies by provider / Стратегии по провайдерам', '',
+         f'Strategies: {total} · providers: {len(groups)} · updated {upd}. '
+         f'Generated from [`strategies.json`](strategies.json) after every submission — do not edit by hand.', '',
+         f'Стратегий: {total}, провайдеров: {len(groups)}, обновлено {upd}. Файл собирается сам из `strategies.json` после каждой заявки. '
+         'Найдите свой провайдер (номер AS) — эти стратегии nfqws2-ui проверяет при подборе первыми. '
+         'Кто прислал и кто подтвердил — в заявках по ссылкам.', '']
+    if not total:
+        L += ['_Пока пусто — станьте первым: кнопка «Поделиться» в nfqws2-ui._', '']
+    for a in order:
+        n = name(a)
+        L.append(f'- [AS{a}{" · " + n if n else ""}](#as{a}) — {len(groups[a])}')
+    for a in order:
+        n = name(a)
+        L += ['', f'## AS{a}', ''] + ([f'**{n}**', ''] if n else [])
+        for proto in ('tls', 'http'):
+            items = sorted((x for x in groups[a] if x['proto'] == proto), key=lambda x: x['last'], reverse=True)
+            items.sort(key=lambda x: -x['reports'])   # больше подтверждений — выше, при равенстве — свежее
+            if not items:
+                continue
+            L += [f'### {PROTO[proto]}', '', '| Strategy / Стратегия | Sites / Где работала | Confirmed / Подтвердили | Last / Последний раз | Issues / Заявки |',
+                  '|---|---|---|---|---|']
+            for x in items:
+                code = '<br>'.join(f'`{s.removeprefix("--lua-desync=")}`' for s in x['steps'])
+                sites = [' · '.join(filter(None, [t.get('host'), f'AS{t["asn"]}' if t.get('asn') else None])) for t in x['targets']]
+                where = '<br>'.join(sites[:5]) + (f'<br>и ещё {len(sites) - 5}' if len(sites) > 5 else '') if sites else '—'
+                iss = ' '.join(f'[#{i}]({REPO}/issues/{i})' for i in sorted(x['issues']))
+                L.append(f'| **{short(x["steps"])}**<br>{code} | {where} | {x["reports"]} | {x["last"]} | {iss} |')
+            L.append('')
+    return '\n'.join(L).rstrip('\n') + '\n'
+
+
+def write_page(data):
+    with open(PAGE, 'w', encoding='utf-8', newline='\n') as fh:
+        fh.write(render(data))
+
+
 def main():
+    if sys.argv[1] == '--render':
+        write_page(json.load(open(DATA, encoding='utf-8')))
+        return
     ev = json.load(open(sys.argv[1], encoding='utf-8'))
     issue = ev['issue']
     login = issue['user']['login']
@@ -148,7 +211,7 @@ def main():
                     if seen else
                     (f"Спасибо! Подтверждение засчитано — теперь их {item['reports']}.\n\n"
                      f"Thanks! Confirmation counted — {item['reports']} now."))
-        text += f"\n\n`{item['id']}`"
+        text += f"\n\n`{item['id']}` · [все стратегии / all strategies]({REPO}/blob/main/{PAGE}#as{s['asn']})"
     except Bad as e:
         label = 'rejected'
         text = (f"Не принято: {e}.\n\nNot accepted — the strategy must be `--lua-desync=…` steps without file paths, "
@@ -157,6 +220,7 @@ def main():
         with open(DATA, 'w', encoding='utf-8', newline='\n') as fh:
             json.dump(data, fh, ensure_ascii=False, indent=1)
             fh.write('\n')
+        write_page(data)
     with open('reply.md', 'w', encoding='utf-8', newline='\n') as fh:
         fh.write(text + '\n')
     out = f"changed={'true' if changed else 'false'}\nlabel={label}\n"

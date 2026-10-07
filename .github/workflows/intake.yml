@@ -27,7 +27,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add strategies.json
+          git add strategies.json STRATEGIES.md
           git commit -m "Strategy from #${{ github.event.issue.number }}"
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 3; done
       - name: Reply and close

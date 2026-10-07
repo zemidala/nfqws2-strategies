@@ -1,5 +1,7 @@
 # nfqws2 strategies
 
+**[→ All strategies by provider / Все стратегии по провайдерам](STRATEGIES.md)**
+
 Working [nfqws2](https://github.com/bol-van/zapret2) strategies shared by users of
 [nfqws2-ui](https://github.com/zemidala/nfqws2-ui), grouped by the internet provider (AS number).
 

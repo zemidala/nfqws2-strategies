@@ -1,8 +1,37 @@
 {
  "asn": 12389,
  "provider": "ROSTELECOM-AS PJSC Rostelecom",
- "updated": "2026-10-07T12:50:35Z",
+ "updated": "2026-10-07T12:51:09Z",
  "items": [
+  {
+   "id": "629237a97c07",
+   "asn": 12389,
+   "provider": "ROSTELECOM-AS PJSC Rostelecom",
+   "proto": "tls",
+   "steps": [
+    "--lua-desync=fake:blob=tls_sochi:repeats=5:tcp_ts=-600000:tcp_ts_up",
+    "--lua-desync=fake:blob=stun2_fake:repeats=5:tcp_ts=-600000:tcp_ts_up",
+    "--lua-desync=hostfakesplit:host=mail.ru:tcp_ts=-600000:tcp_ts_up"
+   ],
+   "targets": [
+    {
+     "host": "rutracker.org",
+     "asn": 13335
+    }
+   ],
+   "reports": 1,
+   "users": [
+    "cbf1a33d3e93"
+   ],
+   "fails": 0,
+   "fail_users": [],
+   "issues": [
+    3
+   ],
+   "first": "2026-10-07",
+   "last": "2026-10-07",
+   "nfqws2": "1.3.1"
+  },
   {
    "id": "7f89114d1bd0",
    "asn": 12389,

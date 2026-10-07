@@ -9,6 +9,12 @@ body:
         Usually this form is filled in by nfqws2-ui (button «Поделиться» / «Подтвердить»). The issue is public: do not put anything private here.
         Обычно форму заполняет nfqws2-ui (кнопка «Поделиться» / «Подтвердить»). Issue публичный — ничего личного сюда не пишите.
   - type: input
+    id: outcome
+    attributes:
+      label: Outcome / Итог
+      description: "works — opened the site every time; fails — a strategy from the list did not work for you / works — открыла сайт каждый раз; fails — стратегия из базы у вас не сработала"
+      placeholder: works
+  - type: input
     id: asn
     attributes:
       label: Provider AS / AS провайдера

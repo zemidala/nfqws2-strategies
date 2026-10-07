@@ -1,0 +1,66 @@
+name: Strategy / Стратегия
+description: Share a working nfqws2 strategy or confirm one from the list / Поделиться рабочей стратегией или подтвердить стратегию из списка
+title: "AS? · tls · strategy"
+labels: ["strategy"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Usually this form is filled in by nfqws2-ui (button «Поделиться» / «Подтвердить»). The issue is public: do not put anything private here.
+        Обычно форму заполняет nfqws2-ui (кнопка «Поделиться» / «Подтвердить»). Issue публичный — ничего личного сюда не пишите.
+  - type: input
+    id: asn
+    attributes:
+      label: Provider AS / AS провайдера
+      description: Number of your ISP's autonomous system, e.g. 12389 / Номер автономной системы провайдера, например 12389
+      placeholder: "12389"
+    validations:
+      required: true
+  - type: input
+    id: provider
+    attributes:
+      label: Provider / Провайдер
+      placeholder: "Rostelecom"
+  - type: input
+    id: proto
+    attributes:
+      label: Protocol / Протокол
+      description: "tls (HTTPS, TCP 443) or http (TCP 80)"
+      placeholder: tls
+    validations:
+      required: true
+  - type: input
+    id: target_host
+    attributes:
+      label: Site / Сайт
+      description: The site the strategy opened (optional) / Сайт, который открылся (можно не указывать)
+      placeholder: rutracker.org
+  - type: input
+    id: target_asn
+    attributes:
+      label: Site AS / AS сайта
+      description: Network of the site, e.g. 24940 for Hetzner (optional) / Сеть сайта, например 24940 — Hetzner (можно не указывать)
+  - type: textarea
+    id: strategy
+    attributes:
+      label: Strategy / Стратегия
+      description: One --lua-desync=… per line / По одному --lua-desync=… в строке
+      render: text
+    validations:
+      required: true
+  - type: input
+    id: result
+    attributes:
+      label: Result / Результат
+      description: "Opened N times out of N, e.g. 3/3 / Открылся N из N, например 3/3"
+      placeholder: 3/3
+    validations:
+      required: true
+  - type: input
+    id: nfqws2
+    attributes:
+      label: nfqws2 version / Версия nfqws2
+  - type: input
+    id: ui
+    attributes:
+      label: nfqws2-ui version / Версия nfqws2-ui

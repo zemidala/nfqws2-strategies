@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: nfqws2-ui
+    url: https://github.com/zemidala/nfqws2-ui
+    about: The web interface that sends and uses these strategies / Интерфейс, который присылает и использует эти стратегии
+  - name: Telegram chat / Чат в Telegram
+    url: https://t.me/nfqws2_ui
+    about: Questions and discussion / Вопросы и обсуждение
+  - name: Problem with the list / Ошибка в базе
+    url: https://github.com/zemidala/nfqws2-ui/issues/new/choose
+    about: Report it in the nfqws2-ui repository / Сообщите в репозитории nfqws2-ui

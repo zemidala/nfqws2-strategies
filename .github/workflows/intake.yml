@@ -1,0 +1,42 @@
+name: intake
+
+# Новая стратегия из формы issue: проверка, запись в strategies.json, ответ и закрытие issue
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: intake
+  cancel-in-progress: false
+
+jobs:
+  intake:
+    if: contains(github.event.issue.labels.*.name, 'strategy')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check and record
+        id: rec
+        run: python3 scripts/intake.py "$GITHUB_EVENT_PATH"
+      - name: Commit
+        if: steps.rec.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add strategies.json
+          git commit -m "Strategy from #${{ github.event.issue.number }}"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 3; done
+      - name: Reply and close
+        env:
+          GH_TOKEN: ${{ github.token }}
+          N: ${{ github.event.issue.number }}
+          LABEL: ${{ steps.rec.outputs.label }}
+        run: |
+          gh label create "$LABEL" --repo "$GITHUB_REPOSITORY" --color ededed 2>/dev/null || true
+          gh issue comment "$N" --repo "$GITHUB_REPOSITORY" --body-file reply.md
+          gh issue edit "$N" --repo "$GITHUB_REPOSITORY" --add-label "$LABEL"
+          gh issue close "$N" --repo "$GITHUB_REPOSITORY" --reason "$([ "$LABEL" = rejected ] && echo 'not planned' || echo completed)"

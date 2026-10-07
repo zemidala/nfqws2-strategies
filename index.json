@@ -1,0 +1,14 @@
+{
+ "version": 2,
+ "updated": "2026-10-07T12:15:19Z",
+ "total": 1,
+ "providers": [
+  {
+   "asn": 60840,
+   "provider": "TELECOMSERVICEVRN OJSC Telecom-Service",
+   "count": 1,
+   "reports": 1,
+   "updated": "2026-10-07T11:51:52Z"
+  }
+ ]
+}

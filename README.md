@@ -6,8 +6,8 @@ Working [nfqws2](https://github.com/bol-van/zapret2) strategies shared by users 
 [nfqws2-ui](https://github.com/zemidala/nfqws2-ui), grouped by the internet provider (AS number).
 
 DPI differs between providers, so a strategy that works for someone on your provider is the best
-first guess for you. nfqws2-ui downloads [`strategies.json`](strategies.json), takes the entries for
-your provider and **tests them on your router** before anything is applied — the same way it tests
+first guess for you. nfqws2-ui downloads only your provider's file (`data/AS<number>.json`, a few KB
+whatever the size of the base) and **tests the strategies on your router** before anything is applied — the same way it tests
 its own strategies. Nothing from here is applied blindly.
 
 ## How to share
@@ -32,17 +32,30 @@ A GitHub Action checks every submission and closes the issue with a reply:
 The issue is public. It contains your provider's AS number and name, the protocol, the strategy,
 and — only if you leave it — the site name and its network. Your IP address is not sent.
 
+## Layout
+
+- `data/AS<number>.json` — one file per provider; this is what routers download.
+- `index.json` — summary: providers, number of strategies and confirmations.
+- [`STRATEGIES.md`](STRATEGIES.md) — the list of providers; `providers/AS<number>.md` — a provider's strategies.
+- `scripts/intake.py` — checks a submission and rebuilds the files of that provider and the summary.
+
+All of it is written by the GitHub Action, do not edit by hand. To remove an entry, the owner puts the
+`remove` label on any of its issues. Submissions from GitHub accounts younger than 7 days are declined.
+
 ## Data format
+
+One entry in `data/AS<number>.json` → `items`:
 
 ```json
 { "id": "d20f36c7f9d9", "asn": 12389, "provider": "…", "proto": "tls",
   "steps": ["--lua-desync=hostfakesplit:tcp_md5:tcp_ts_up:repeats=16:host=ya.ru"],
   "targets": [{ "host": "king.hr", "asn": 24940 }],
-  "reports": 2, "users": ["<hash>", "…"], "issues": [4, 1],
+  "reports": 2, "users": ["<hash>", "…"], "fails": 1, "fail_users": ["<hash>"], "last_fail": "2026-10-07", "issues": [5, 4, 1],
   "first": "2026-10-07", "last": "2026-10-07", "nfqws2": "" }
 ```
 
-`users` are salted hashes of GitHub logins — only to count each person once.
+`users` / `fail_users` are salted hashes of GitHub logins — only to count each person once; a person's latest word
+(works / did not work) is what counts.
 
 ---
 
@@ -52,8 +65,8 @@ and — only if you leave it — the site name and its network. Your IP address 
 [nfqws2-ui](https://github.com/zemidala/nfqws2-ui), — по провайдерам (номер AS).
 
 DPI у провайдеров разный, поэтому стратегия, которая сработала у абонента вашего провайдера, —
-лучшее, с чего начать. nfqws2-ui скачивает [`strategies.json`](strategies.json), берёт записи для
-вашего провайдера и **проверяет их на вашем роутере**, как и свои стратегии. Вслепую отсюда ничего
+лучшее, с чего начать. nfqws2-ui скачивает только файл вашего провайдера (`data/AS<номер>.json`,
+несколько килобайт при любом размере базы) и **проверяет стратегии на вашем роутере**, как и свои стратегии. Вслепую отсюда ничего
 не применяется.
 
 **Как поделиться.** В nfqws2-ui, когда стратегия открыла сайт каждый раз: «Подбор стратегии» →

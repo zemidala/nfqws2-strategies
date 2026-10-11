@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updated": "2026-10-08T07:10:11Z",
- "total": 5,
+ "updated": "2026-10-11T07:28:04Z",
+ "total": 6,
  "providers": [
   {
    "asn": 12389,
@@ -9,6 +9,13 @@
    "count": 3,
    "reports": 3,
    "updated": "2026-10-08T07:10:11Z"
+  },
+  {
+   "asn": 13335,
+   "provider": "CLOUDFLARENET - Cloudflare, Inc.",
+   "count": 1,
+   "reports": 1,
+   "updated": "2026-10-11T07:28:04Z"
   },
   {
    "asn": 60840,

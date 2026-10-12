@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updated": "2026-10-11T08:59:01Z",
- "total": 6,
+ "updated": "2026-10-12T09:50:12Z",
+ "total": 7,
  "providers": [
   {
    "asn": 12389,
@@ -16,6 +16,13 @@
    "count": 1,
    "reports": 1,
    "updated": "2026-10-11T07:28:04Z"
+  },
+  {
+   "asn": 25513,
+   "provider": "ASN-MGTS-USPD PJSC Moscow city telephone network",
+   "count": 1,
+   "reports": 1,
+   "updated": "2026-10-12T09:50:12Z"
   },
   {
    "asn": 60840,

@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updated": "2026-10-12T09:50:12Z",
- "total": 7,
+ "updated": "2026-10-12T19:42:18Z",
+ "total": 8,
  "providers": [
   {
    "asn": 12389,
@@ -23,6 +23,13 @@
    "count": 1,
    "reports": 1,
    "updated": "2026-10-12T09:50:12Z"
+  },
+  {
+   "asn": 51570,
+   "provider": "SPB-AS JSC",
+   "count": 1,
+   "reports": 1,
+   "updated": "2026-10-12T19:42:18Z"
   },
   {
    "asn": 60840,

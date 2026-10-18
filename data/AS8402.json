@@ -1,0 +1,34 @@
+{
+ "asn": 8402,
+ "provider": "CORBINA-AS PJSC",
+ "updated": "2026-10-18T19:01:48Z",
+ "items": [
+  {
+   "id": "564b5223a232",
+   "asn": 8402,
+   "provider": "CORBINA-AS PJSC",
+   "proto": "tls",
+   "steps": [
+    "--lua-desync=multidisorder:pos=1,sniext+1,host+1,midsld-2,midsld,midsld+2,endhost-1"
+   ],
+   "targets": [
+    {
+     "host": "www.youtube.com",
+     "asn": 15169
+    }
+   ],
+   "reports": 1,
+   "users": [
+    "657164744feb"
+   ],
+   "fails": 0,
+   "fail_users": [],
+   "issues": [
+    12
+   ],
+   "first": "2026-10-18",
+   "last": "2026-10-18",
+   "nfqws2": "1.3.1"
+  }
+ ]
+}

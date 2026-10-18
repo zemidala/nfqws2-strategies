@@ -1,0 +1,34 @@
+{
+ "asn": 60095,
+ "provider": "NN-AS JSC",
+ "updated": "2026-10-18T08:56:53Z",
+ "items": [
+  {
+   "id": "4345f068ba4f",
+   "asn": 60095,
+   "provider": "NN-AS JSC",
+   "proto": "tls",
+   "steps": [
+    "--lua-desync=fake:blob=tls_clienthello:repeats=6:tcp_md5",
+    "--lua-desync=fakedsplit:pos=1:tcp_md5"
+   ],
+   "targets": [
+    {
+     "host": "x.com"
+    }
+   ],
+   "reports": 1,
+   "users": [
+    "a38eb0b96d1f"
+   ],
+   "fails": 0,
+   "fail_users": [],
+   "issues": [
+    11
+   ],
+   "first": "2026-10-18",
+   "last": "2026-10-18",
+   "nfqws2": "1.3.1"
+  }
+ ]
+}

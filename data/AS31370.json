@@ -1,7 +1,7 @@
 {
  "asn": 31370,
  "provider": "MOSLINE-AS OOO",
- "updated": "2026-10-19T13:45:23Z",
+ "updated": "2026-10-19T13:45:53Z",
  "items": [
   {
    "id": "3bc77ed496fd",
@@ -13,6 +13,9 @@
    ],
    "targets": [
     {
+     "asn": 24940
+    },
+    {
      "asn": 63949
     }
    ],
@@ -23,6 +26,7 @@
    "fails": 0,
    "fail_users": [],
    "issues": [
+    15,
     13
    ],
    "first": "2026-10-19",

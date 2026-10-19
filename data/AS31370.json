@@ -1,7 +1,7 @@
 {
  "asn": 31370,
  "provider": "MOSLINE-AS OOO",
- "updated": "2026-10-19T13:45:53Z",
+ "updated": "2026-10-19T13:46:55Z",
  "items": [
   {
    "id": "3bc77ed496fd",
@@ -12,6 +12,9 @@
     "--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"
    ],
    "targets": [
+    {
+     "asn": 213230
+    },
     {
      "asn": 24940
     },
@@ -26,6 +29,7 @@
    "fails": 0,
    "fail_users": [],
    "issues": [
+    17,
     15,
     13
    ],

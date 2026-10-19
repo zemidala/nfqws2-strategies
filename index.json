@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-10-19T13:45:53Z",
+ "updated": "2026-10-19T13:46:55Z",
  "total": 11,
  "providers": [
   {
@@ -36,7 +36,7 @@
    "provider": "MOSLINE-AS OOO",
    "count": 1,
    "reports": 1,
-   "updated": "2026-10-19T13:45:53Z"
+   "updated": "2026-10-19T13:46:55Z"
   },
   {
    "asn": 51570,

@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updated": "2026-10-23T03:40:49Z",
- "total": 12,
+ "updated": "2026-10-23T13:33:12Z",
+ "total": 13,
  "providers": [
   {
    "asn": 12389,
@@ -44,6 +44,13 @@
    "count": 1,
    "reports": 1,
    "updated": "2026-10-19T16:53:16Z"
+  },
+  {
+   "asn": 39927,
+   "provider": "Elight-AS E-Light-Telecom Ltd.",
+   "count": 1,
+   "reports": 1,
+   "updated": "2026-10-23T13:33:12Z"
   },
   {
    "asn": 51570,

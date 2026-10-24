@@ -1,12 +1,12 @@
 # Strategies by provider / Стратегии по провайдерам
 
-Strategies: 14 · providers: 11 · updated 2026-10-24 08:35 UTC. Find your provider (AS number) and open its page. Generated after every submission — do not edit by hand.
+Strategies: 14 · providers: 11 · updated 2026-10-24 17:43 UTC. Find your provider (AS number) and open its page. Generated after every submission — do not edit by hand.
 
-Стратегий: 14, провайдеров: 11, обновлено 2026-10-24 08:35 UTC. Найдите своего провайдера (номер AS) и откройте его страницу — эти стратегии nfqws2-ui проверяет при подборе первыми. Номер AS вашего провайдера показан в nfqws2-ui: «Проверка сайта → Стратегии сообщества». Файл собирается сам после каждой заявки.
+Стратегий: 14, провайдеров: 11, обновлено 2026-10-24 17:43 UTC. Найдите своего провайдера (номер AS) и откройте его страницу — эти стратегии nfqws2-ui проверяет при подборе первыми. Номер AS вашего провайдера показан в nfqws2-ui: «Проверка сайта → Стратегии сообщества». Файл собирается сам после каждой заявки.
 
 | AS | Provider / Провайдер | Strategies / Стратегий | Confirmed / Подтверждений | Updated / Обновлено |
 |---|---|---|---|---|
-| [AS12389](providers/AS12389.md) | ROSTELECOM-AS PJSC Rostelecom | 3 | 5 | 2026-10-23 |
+| [AS12389](providers/AS12389.md) | ROSTELECOM-AS PJSC Rostelecom | 3 | 6 | 2026-10-24 |
 | [AS35539](providers/AS35539.md) | INFOLINK-T-AS Information and Communication Technologies LLC | 2 | 2 | 2026-10-24 |
 | [AS8402](providers/AS8402.md) | CORBINA-AS PJSC | 1 | 1 | 2026-10-18 |
 | [AS13335](providers/AS13335.md) | CLOUDFLARENET - Cloudflare, Inc. | 1 | 1 | 2026-10-11 |

@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updated": "2026-10-23T13:33:12Z",
- "total": 13,
+ "updated": "2026-10-24T08:35:47Z",
+ "total": 14,
  "providers": [
   {
    "asn": 12389,
@@ -9,6 +9,13 @@
    "count": 3,
    "reports": 5,
    "updated": "2026-10-23T03:40:49Z"
+  },
+  {
+   "asn": 35539,
+   "provider": "INFOLINK-T-AS Information and Communication Technologies LLC",
+   "count": 2,
+   "reports": 2,
+   "updated": "2026-10-24T08:35:47Z"
   },
   {
    "asn": 8402,
@@ -37,13 +44,6 @@
    "count": 1,
    "reports": 1,
    "updated": "2026-10-19T13:46:55Z"
-  },
-  {
-   "asn": 35539,
-   "provider": "INFOLINK-T-AS Information and Communication Technologies LLC",
-   "count": 1,
-   "reports": 1,
-   "updated": "2026-10-19T16:53:16Z"
   },
   {
    "asn": 39927,

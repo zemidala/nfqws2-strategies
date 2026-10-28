@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-10-28T08:49:26Z",
+ "updated": "2026-10-28T08:49:43Z",
  "total": 16,
  "providers": [
   {
@@ -50,7 +50,7 @@
    "provider": "SEVSTAR Lancom Ltd.",
    "count": 1,
    "reports": 1,
-   "updated": "2026-10-28T08:49:26Z"
+   "updated": "2026-10-28T08:49:43Z"
   },
   {
    "asn": 39927,

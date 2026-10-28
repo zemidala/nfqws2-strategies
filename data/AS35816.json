@@ -1,7 +1,7 @@
 {
  "asn": 35816,
  "provider": "SEVSTAR Lancom Ltd.",
- "updated": "2026-10-28T08:49:26Z",
+ "updated": "2026-10-28T08:49:43Z",
  "items": [
   {
    "id": "89751da01752",
@@ -13,6 +13,9 @@
    ],
    "targets": [
     {
+     "asn": 24940
+    },
+    {
      "asn": 20473
     }
    ],
@@ -23,6 +26,7 @@
    "fails": 0,
    "fail_users": [],
    "issues": [
+    27,
     26
    ],
    "first": "2026-10-28",

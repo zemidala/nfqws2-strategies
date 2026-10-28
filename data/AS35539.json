@@ -1,7 +1,7 @@
 {
  "asn": 35539,
  "provider": "INFOLINK-T-AS Information and Communication Technologies LLC",
- "updated": "2026-10-28T18:08:49Z",
+ "updated": "2026-10-28T18:09:17Z",
  "items": [
   {
    "id": "b39cabe12bf1",
@@ -40,6 +40,9 @@
    ],
    "targets": [
     {
+     "asn": 12876
+    },
+    {
      "asn": 14061
     },
     {
@@ -53,6 +56,7 @@
    "fails": 0,
    "fail_users": [],
    "issues": [
+    31,
     30,
     28,
     23

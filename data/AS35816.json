@@ -1,0 +1,33 @@
+{
+ "asn": 35816,
+ "provider": "SEVSTAR Lancom Ltd.",
+ "updated": "2026-10-28T08:49:26Z",
+ "items": [
+  {
+   "id": "89751da01752",
+   "asn": 35816,
+   "provider": "SEVSTAR Lancom Ltd.",
+   "proto": "tls",
+   "steps": [
+    "--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"
+   ],
+   "targets": [
+    {
+     "asn": 20473
+    }
+   ],
+   "reports": 1,
+   "users": [
+    "bd767f886a4f"
+   ],
+   "fails": 0,
+   "fail_users": [],
+   "issues": [
+    26
+   ],
+   "first": "2026-10-28",
+   "last": "2026-10-28",
+   "nfqws2": "1.3.2"
+  }
+ ]
+}

@@ -1,14 +1,14 @@
 # Strategies by provider / Стратегии по провайдерам
 
-Strategies: 16 · providers: 12 · updated 2026-10-28 18:09 UTC. Find your provider (AS number) and open its page. Generated after every submission — do not edit by hand.
+Strategies: 17 · providers: 12 · updated 2026-10-28 18:09 UTC. Find your provider (AS number) and open its page. Generated after every submission — do not edit by hand.
 
-Стратегий: 16, провайдеров: 12, обновлено 2026-10-28 18:09 UTC. Найдите своего провайдера (номер AS) и откройте его страницу — эти стратегии nfqws2-ui проверяет при подборе первыми. Номер AS вашего провайдера показан в nfqws2-ui: «Проверка сайта → Стратегии сообщества». Файл собирается сам после каждой заявки.
+Стратегий: 17, провайдеров: 12, обновлено 2026-10-28 18:09 UTC. Найдите своего провайдера (номер AS) и откройте его страницу — эти стратегии nfqws2-ui проверяет при подборе первыми. Номер AS вашего провайдера показан в nfqws2-ui: «Проверка сайта → Стратегии сообщества». Файл собирается сам после каждой заявки.
 
 | AS | Provider / Провайдер | Strategies / Стратегий | Confirmed / Подтверждений | Updated / Обновлено |
 |---|---|---|---|---|
 | [AS12389](providers/AS12389.md) | ROSTELECOM-AS PJSC Rostelecom | 3 | 6 | 2026-10-24 |
+| [AS35539](providers/AS35539.md) | INFOLINK-T-AS Information and Communication Technologies LLC | 3 | 3 | 2026-10-28 |
 | [AS8402](providers/AS8402.md) | CORBINA-AS PJSC | 2 | 2 | 2026-10-25 |
-| [AS35539](providers/AS35539.md) | INFOLINK-T-AS Information and Communication Technologies LLC | 2 | 2 | 2026-10-28 |
 | [AS13335](providers/AS13335.md) | CLOUDFLARENET - Cloudflare, Inc. | 1 | 1 | 2026-10-11 |
 | [AS25513](providers/AS25513.md) | ASN-MGTS-USPD PJSC Moscow city telephone network | 1 | 1 | 2026-10-12 |
 | [AS31370](providers/AS31370.md) | MOSLINE-AS OOO | 1 | 1 | 2026-10-19 |

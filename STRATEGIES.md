@@ -1,8 +1,8 @@
 # Strategies by provider / Стратегии по провайдерам
 
-Strategies: 17 · providers: 12 · updated 2026-10-28 18:09 UTC. Find your provider (AS number) and open its page. Generated after every submission — do not edit by hand.
+Strategies: 17 · providers: 12 · updated 2026-10-29 00:19 UTC. Find your provider (AS number) and open its page. Generated after every submission — do not edit by hand.
 
-Стратегий: 17, провайдеров: 12, обновлено 2026-10-28 18:09 UTC. Найдите своего провайдера (номер AS) и откройте его страницу — эти стратегии nfqws2-ui проверяет при подборе первыми. Номер AS вашего провайдера показан в nfqws2-ui: «Проверка сайта → Стратегии сообщества». Файл собирается сам после каждой заявки.
+Стратегий: 17, провайдеров: 12, обновлено 2026-10-29 00:19 UTC. Найдите своего провайдера (номер AS) и откройте его страницу — эти стратегии nfqws2-ui проверяет при подборе первыми. Номер AS вашего провайдера показан в nfqws2-ui: «Проверка сайта → Стратегии сообщества». Файл собирается сам после каждой заявки.
 
 | AS | Provider / Провайдер | Strategies / Стратегий | Confirmed / Подтверждений | Updated / Обновлено |
 |---|---|---|---|---|
@@ -11,7 +11,7 @@ Strategies: 17 · providers: 12 · updated 2026-10-28 18:09 UTC. Find your provi
 | [AS8402](providers/AS8402.md) | CORBINA-AS PJSC | 2 | 2 | 2026-10-25 |
 | [AS13335](providers/AS13335.md) | CLOUDFLARENET - Cloudflare, Inc. | 1 | 1 | 2026-10-11 |
 | [AS25513](providers/AS25513.md) | ASN-MGTS-USPD PJSC Moscow city telephone network | 1 | 1 | 2026-10-12 |
-| [AS31370](providers/AS31370.md) | MOSLINE-AS OOO | 1 | 1 | 2026-10-19 |
+| [AS31370](providers/AS31370.md) | MOSLINE-AS OOO | 1 | 1 | 2026-10-29 |
 | [AS35816](providers/AS35816.md) | SEVSTAR Lancom Ltd. | 1 | 1 | 2026-10-28 |
 | [AS39927](providers/AS39927.md) | Elight-AS E-Light-Telecom Ltd. | 1 | 1 | 2026-10-23 |
 | [AS51570](providers/AS51570.md) | SPB-AS JSC | 1 | 1 | 2026-10-12 |

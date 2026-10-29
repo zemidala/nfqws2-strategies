@@ -1,10 +1,11 @@
 name: intake
 
-# Новая заявка из формы — проверка, запись в strategies.json и STRATEGIES.md, ответ, закрытие.
-# Метка remove на заявке (ставит владелец) — запись, к которой она относится, удаляется.
+# New issue from the form — check, write to data/ and the pages, reply, close; every run also
+# picks up open issues left unprocessed. Label «remove» on an issue (set by the owner) — its record is removed.
 on:
   issues:
     types: [opened, labeled]
+  workflow_dispatch:   # manual run: picks up open issues whose own run was cancelled
 
 permissions:
   contents: write
@@ -17,37 +18,13 @@ concurrency:
 jobs:
   intake:
     if: >-
+      github.event_name == 'workflow_dispatch' ||
       (github.event.action == 'opened' && contains(github.event.issue.labels.*.name, 'strategy')) ||
       (github.event.action == 'labeled' && github.event.label.name == 'remove')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Check and record
-        id: rec
+      - name: Process the event and every open strategy issue
         env:
           GH_TOKEN: ${{ github.token }}
-          LOGIN: ${{ github.event.issue.user.login }}
-        run: |
-          export ACCOUNT_CREATED="$(gh api "users/$LOGIN" --jq .created_at 2>/dev/null || true)"
-          python3 scripts/intake.py "$GITHUB_EVENT_PATH"
-      - name: Commit
-        if: steps.rec.outputs.changed == 'true'
-        env:
-          N: ${{ github.event.issue.number }}
-        run: |
-          # от имени владельца, чтобы в Contributors не было бота
-          git config user.name "zemidala"
-          git config user.email "42742254+zemidala@users.noreply.github.com"
-          git add -A data providers index.json STRATEGIES.md
-          git commit -m "$([ "${{ steps.rec.outputs.label }}" = removed ] && echo Removed || echo Strategy) from #$N"
-          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 3; done
-      - name: Reply and close
-        env:
-          GH_TOKEN: ${{ github.token }}
-          N: ${{ github.event.issue.number }}
-          LABEL: ${{ steps.rec.outputs.label }}
-        run: |
-          gh label create "$LABEL" --repo "$GITHUB_REPOSITORY" --color ededed 2>/dev/null || true
-          gh issue comment "$N" --repo "$GITHUB_REPOSITORY" --body-file reply.md
-          gh issue edit "$N" --repo "$GITHUB_REPOSITORY" --add-label "$LABEL"
-          gh issue close "$N" --repo "$GITHUB_REPOSITORY" --reason "$([ "$LABEL" = rejected ] && echo 'not planned' || echo completed)" 2>/dev/null || true
+        run: bash scripts/run.sh

@@ -1,7 +1,7 @@
 {
  "asn": 51973,
  "provider": "KOLT-AS Koltushsky Internet Ltd",
- "updated": "2026-11-01T18:59:59Z",
+ "updated": "2026-11-01T19:00:05Z",
  "items": [
   {
    "id": "10c00d124bb4",
@@ -39,6 +39,9 @@
    ],
    "targets": [
     {
+     "asn": 9009
+    },
+    {
      "asn": 20940
     },
     {
@@ -64,6 +67,7 @@
    "fails": 0,
    "fail_users": [],
    "issues": [
+    43,
     40,
     39,
     38,

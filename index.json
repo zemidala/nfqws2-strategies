@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updated": "2026-11-01T18:59:40Z",
- "total": 19,
+ "updated": "2026-11-01T18:59:59Z",
+ "total": 20,
  "providers": [
   {
    "asn": 12389,
@@ -18,18 +18,18 @@
    "updated": "2026-10-29T00:19:17Z"
   },
   {
+   "asn": 51973,
+   "provider": "KOLT-AS Koltushsky Internet Ltd",
+   "count": 3,
+   "reports": 3,
+   "updated": "2026-11-01T18:59:59Z"
+  },
+  {
    "asn": 8402,
    "provider": "CORBINA-AS PJSC",
    "count": 2,
    "reports": 3,
    "updated": "2026-10-30T20:33:38Z"
-  },
-  {
-   "asn": 51973,
-   "provider": "KOLT-AS Koltushsky Internet Ltd",
-   "count": 2,
-   "reports": 2,
-   "updated": "2026-11-01T18:59:40Z"
   },
   {
    "asn": 13335,

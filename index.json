@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-01T18:58:27Z",
+ "updated": "2026-11-01T18:58:45Z",
  "total": 18,
  "providers": [
   {
@@ -71,7 +71,7 @@
    "provider": "KOLT-AS Koltushsky Internet Ltd",
    "count": 1,
    "reports": 1,
-   "updated": "2026-11-01T18:58:27Z"
+   "updated": "2026-11-01T18:58:45Z"
   },
   {
    "asn": 60095,

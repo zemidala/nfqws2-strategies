@@ -1,7 +1,7 @@
 {
  "asn": 51973,
  "provider": "KOLT-AS Koltushsky Internet Ltd",
- "updated": "2026-11-01T18:58:27Z",
+ "updated": "2026-11-01T18:58:45Z",
  "items": [
   {
    "id": "5b460c2accbe",
@@ -12,6 +12,9 @@
     "--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"
    ],
    "targets": [
+    {
+     "asn": 14061
+    },
     {
      "asn": 213230
     },
@@ -29,6 +32,7 @@
    "fails": 0,
    "fail_users": [],
    "issues": [
+    38,
     37,
     36,
     35

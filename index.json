@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updated": "2026-11-01T18:59:20Z",
- "total": 18,
+ "updated": "2026-11-01T18:59:40Z",
+ "total": 19,
  "providers": [
   {
    "asn": 12389,
@@ -23,6 +23,13 @@
    "count": 2,
    "reports": 3,
    "updated": "2026-10-30T20:33:38Z"
+  },
+  {
+   "asn": 51973,
+   "provider": "KOLT-AS Koltushsky Internet Ltd",
+   "count": 2,
+   "reports": 2,
+   "updated": "2026-11-01T18:59:40Z"
   },
   {
    "asn": 13335,
@@ -65,13 +72,6 @@
    "count": 1,
    "reports": 1,
    "updated": "2026-10-12T19:42:18Z"
-  },
-  {
-   "asn": 51973,
-   "provider": "KOLT-AS Koltushsky Internet Ltd",
-   "count": 1,
-   "reports": 1,
-   "updated": "2026-11-01T18:59:20Z"
   },
   {
    "asn": 60095,

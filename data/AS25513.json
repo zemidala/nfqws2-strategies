@@ -1,7 +1,7 @@
 {
  "asn": 25513,
  "provider": "ASN-MGTS-USPD PJSC Moscow city telephone network",
- "updated": "2026-10-12T09:50:12Z",
+ "updated": "2026-11-02T12:46:52Z",
  "items": [
   {
    "id": "6fe809890af5",
@@ -19,18 +19,20 @@
      "asn": 13335
     }
    ],
-   "reports": 1,
-   "users": [
+   "reports": 0,
+   "users": [],
+   "fails": 1,
+   "fail_users": [
     "be52e68733e1"
    ],
-   "fails": 0,
-   "fail_users": [],
    "issues": [
+    44,
     8
    ],
    "first": "2026-10-12",
    "last": "2026-10-12",
-   "nfqws2": "1.3.1"
+   "nfqws2": "1.3.1",
+   "last_fail": "2026-11-02"
   }
  ]
 }

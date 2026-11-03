@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updated": "2026-11-03T22:52:31Z",
- "total": 23,
+ "updated": "2026-11-03T23:32:55Z",
+ "total": 24,
  "providers": [
   {
    "asn": 12389,
@@ -39,6 +39,13 @@
    "updated": "2026-11-03T16:31:48Z"
   },
   {
+   "asn": 16345,
+   "provider": "BEE-AS PJSC",
+   "count": 2,
+   "reports": 2,
+   "updated": "2026-11-03T23:32:55Z"
+  },
+  {
    "asn": 25513,
    "provider": "ASN-MGTS-USPD PJSC Moscow city telephone network",
    "count": 2,
@@ -51,13 +58,6 @@
    "count": 1,
    "reports": 1,
    "updated": "2026-10-11T07:28:04Z"
-  },
-  {
-   "asn": 16345,
-   "provider": "BEE-AS PJSC",
-   "count": 1,
-   "reports": 1,
-   "updated": "2026-11-03T22:00:32Z"
   },
   {
    "asn": 31370,

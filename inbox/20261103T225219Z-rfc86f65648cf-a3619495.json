@@ -1,1 +1,0 @@
-{"t":"2026-11-03T22:52:19Z","who":"rfc86f65648cf","ip":"8f8986e1636a","name":"","items":[{"kind":"share","asn":47895,"provider":"R-LINE-AS LTD ","proto":"tls","steps":["--lua-desync=fake:blob=tls_clienthello:tcp_md5","--lua-desync=multisplit:pos=1,midsld"],"net":15169,"host":"youtube.com","nfqws2":"1.3.2","ui":"1.31.0"}]}

@@ -1,7 +1,7 @@
 {
  "asn": 16345,
  "provider": "BEE-AS PJSC",
- "updated": "2026-11-03T17:35:45Z",
+ "updated": "2026-11-03T17:35:57Z",
  "items": [
   {
    "id": "ec6285b762f5",
@@ -12,6 +12,9 @@
     "--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"
    ],
    "targets": [
+    {
+     "asn": 213230
+    },
     {
      "asn": 24940
     },
@@ -26,6 +29,7 @@
    "fails": 0,
    "fail_users": [],
    "issues": [
+    48,
     47,
     46
    ],

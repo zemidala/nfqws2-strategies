@@ -6,6 +6,10 @@ on:
   issues:
     types: [opened, labeled]
   workflow_dispatch:   # manual run: picks up open issues whose own run was cancelled
+  repository_dispatch:
+    types: [relay]     # the relay (relay/worker.js) put a router's submission into the «inbox» branch
+  schedule:
+    - cron: '17,47 * * * *'   # and every half hour anyway: a dispatch whose run GitHub dropped is not lost
 
 permissions:
   contents: write
@@ -18,7 +22,7 @@ concurrency:
 jobs:
   intake:
     if: >-
-      github.event_name == 'workflow_dispatch' ||
+      github.event_name == 'workflow_dispatch' || github.event_name == 'repository_dispatch' || github.event_name == 'schedule' ||
       (github.event.action == 'opened' && contains(github.event.issue.labels.*.name, 'strategy')) ||
       (github.event.action == 'labeled' && github.event.label.name == 'remove')
     runs-on: ubuntu-latest

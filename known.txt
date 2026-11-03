@@ -1,0 +1,35 @@
+# Sites whose names a router may send with a strategy (and their subdomains). Any other site goes as its network
+# (AS) only: which sites a person opens is nobody's business. One domain per line; add only widely known ones.
+# Сайты, имя которых роутер может отправить вместе со стратегией (и их поддомены). Остальные — только сетью (AS).
+youtube.com
+googlevideo.com
+ytimg.com
+discord.com
+discord.gg
+discordapp.com
+discord.media
+x.com
+twitter.com
+twimg.com
+instagram.com
+facebook.com
+fbcdn.net
+whatsapp.com
+web.telegram.org
+telegram.org
+rutracker.org
+nnmclub.to
+rutor.info
+kinozal.guru
+linkedin.com
+medium.com
+soundcloud.com
+twitch.tv
+patreon.com
+chatgpt.com
+openai.com
+claude.ai
+anthropic.com
+gemini.google.com
+notion.so
+spotify.com

@@ -30,6 +30,35 @@ process() {
   echo "#$n: $label"
 }
 
+# Submissions from routers: the relay writes one file per submission to inbox/ of the «inbox» branch. All of them
+# are processed in one commit to main, then removed from the branch (the relay may add new ones meanwhile:
+# removing other files rebases cleanly)
+relay_inbox() {
+  git ls-remote --exit-code --heads origin inbox >/dev/null 2>&1 || return 0
+  git fetch -q origin inbox
+  local box wt done
+  box=$(mktemp -d)
+  git archive origin/inbox inbox 2>/dev/null | tar -x -C "$box" || return 0
+  done=$(python3 scripts/intake.py --inbox "$box/inbox")
+  [ -n "$done" ] || return 0
+  if [ -n "$(git status --porcelain data providers index.json STRATEGIES.md stats state log)" ]; then
+    git add -A data providers index.json STRATEGIES.md stats state log
+    git commit -q -m "Strategies from routers ($(echo "$done" | wc -l))"
+    for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 3; done
+  fi
+  wt=$(mktemp -d)
+  git worktree add -q --detach "$wt" origin/inbox
+  (
+    cd "$wt"
+    for f in $done; do git rm -q "inbox/$(basename "$f")"; done
+    git commit -q -m "Processed $(echo "$done" | wc -l)"
+    for i in 1 2 3 4 5; do git push -q origin HEAD:inbox && break; git pull --rebase -q origin inbox; done
+  )
+  git worktree remove --force "$wt"
+  echo "inbox: $(echo "$done" | wc -l) processed"
+}
+relay_inbox
+
 if [ "$(jq -r .action "$GITHUB_EVENT_PATH")" = labeled ] && [ "$(jq -r '.label.name // ""' "$GITHUB_EVENT_PATH")" = remove ]; then
   process "$GITHUB_EVENT_PATH"
 fi

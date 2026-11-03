@@ -1,7 +1,7 @@
 {
  "asn": 16345,
  "provider": "BEE-AS PJSC",
- "updated": "2026-11-03T17:35:03Z",
+ "updated": "2026-11-03T17:35:45Z",
  "items": [
   {
    "id": "ec6285b762f5",
@@ -13,6 +13,9 @@
    ],
    "targets": [
     {
+     "asn": 24940
+    },
+    {
      "asn": 20473
     }
    ],
@@ -23,6 +26,7 @@
    "fails": 0,
    "fail_users": [],
    "issues": [
+    47,
     46
    ],
    "first": "2026-11-03",

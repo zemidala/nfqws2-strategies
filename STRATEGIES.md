@@ -1,8 +1,8 @@
 # Strategies by provider / Стратегии по провайдерам
 
-Strategies: 23 · providers: 14 · updated 2026-11-03 22:00 UTC. Find your provider (AS number) and open its page. Generated after every submission — do not edit by hand.
+Strategies: 23 · providers: 14 · updated 2026-11-03 22:52 UTC. Find your provider (AS number) and open its page. Generated after every submission — do not edit by hand.
 
-Стратегий: 23, провайдеров: 14, обновлено 2026-11-03 22:00 UTC. Найдите своего провайдера (номер AS) и откройте его страницу — эти стратегии nfqws2-ui проверяет при подборе первыми. Номер AS вашего провайдера показан в nfqws2-ui: «Проверка сайта → Стратегии сообщества». Файл собирается сам после каждой заявки.
+Стратегий: 23, провайдеров: 14, обновлено 2026-11-03 22:52 UTC. Найдите своего провайдера (номер AS) и откройте его страницу — эти стратегии nfqws2-ui проверяет при подборе первыми. Номер AS вашего провайдера показан в nfqws2-ui: «Проверка сайта → Стратегии сообщества». Файл собирается сам после каждой заявки.
 
 | AS | Provider / Провайдер | Strategies / Стратегий | Confirmed / Подтверждений | Updated / Обновлено |
 |---|---|---|---|---|

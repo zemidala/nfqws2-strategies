@@ -1,0 +1,34 @@
+{
+ "asn": 47895,
+ "provider": "",
+ "updated": "2026-11-03T22:52:31Z",
+ "items": [
+  {
+   "id": "ac27433a66c6",
+   "asn": 47895,
+   "provider": "R-LINE-AS LTD",
+   "proto": "tls",
+   "steps": [
+    "--lua-desync=fake:blob=tls_clienthello:tcp_md5",
+    "--lua-desync=multisplit:pos=1,midsld"
+   ],
+   "targets": [
+    {
+     "host": "youtube.com",
+     "asn": 15169
+    }
+   ],
+   "reports": 1,
+   "users": [
+    "rfc86f65648cf"
+   ],
+   "fails": 0,
+   "fail_users": [],
+   "issues": [],
+   "first": "2026-11-03",
+   "last": "2026-11-03",
+   "nfqws2": "1.3.2",
+   "by": "rfc86f65648cf"
+  }
+ ]
+}

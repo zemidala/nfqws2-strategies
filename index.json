@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updated": "2026-11-03T23:32:55Z",
- "total": 24,
+ "updated": "2026-11-03T23:36:53Z",
+ "total": 25,
  "providers": [
   {
    "asn": 12389,
@@ -9,6 +9,13 @@
    "count": 3,
    "reports": 6,
    "updated": "2026-10-24T17:43:42Z"
+  },
+  {
+   "asn": 16345,
+   "provider": "BEE-AS PJSC",
+   "count": 3,
+   "reports": 3,
+   "updated": "2026-11-03T23:36:53Z"
   },
   {
    "asn": 35539,
@@ -37,13 +44,6 @@
    "count": 2,
    "reports": 3,
    "updated": "2026-11-03T16:31:48Z"
-  },
-  {
-   "asn": 16345,
-   "provider": "BEE-AS PJSC",
-   "count": 2,
-   "reports": 2,
-   "updated": "2026-11-03T23:32:55Z"
   },
   {
    "asn": 25513,

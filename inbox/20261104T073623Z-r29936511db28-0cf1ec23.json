@@ -1,0 +1,1 @@
+{"t":"2026-11-04T07:36:23Z","who":"r29936511db28","ip":"91b6e42cbaf1","name":"","items":[{"kind":"works","asn":12389,"provider":"ROSTELECOM-AS PJSC Rostelecom","proto":"tls","steps":["--lua-desync=hostfakesplit:host=www.google.com:tcp_ts=-600000:tcp_ts_up"],"net":15169,"host":"i.ytimg.com","nfqws2":"1.3.2","ui":"1.31.0"}]}

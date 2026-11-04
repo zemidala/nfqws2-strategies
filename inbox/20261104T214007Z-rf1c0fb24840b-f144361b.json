@@ -1,1 +1,0 @@
-{"t":"2026-11-04T21:40:07Z","who":"rf1c0fb24840b","ip":"4c4df5184c76","name":"LEGI0N","items":[{"kind":"share","asn":41733,"provider":"ZTELECOM-AS JSC ","proto":"tls","steps":["--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ad.adriver.ru"],"net":8849,"host":"","nfqws2":"1.3.2","ui":"1.31.0"}]}

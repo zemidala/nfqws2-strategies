@@ -1,7 +1,7 @@
 {
  "asn": 8359,
  "provider": "",
- "updated": "2026-11-04T14:07:13Z",
+ "updated": "2026-11-04T14:07:43Z",
  "items": [
   {
    "id": "cf88516fcd18",
@@ -12,6 +12,9 @@
     "--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"
    ],
    "targets": [
+    {
+     "asn": 24940
+    },
     {
      "asn": 20473
     },

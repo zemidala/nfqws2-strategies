@@ -3,3 +3,5 @@
 {"asn": 47895, "id": "ac27433a66c6", "ip": "8f8986e1636a", "kind": "share", "result": "pending", "t": "2026-11-03T22:52:19Z", "who": "rfc86f65648cf"}
 {"asn": 12389, "id": "7f89114d1bd0", "ip": "91b6e42cbaf1", "kind": "works", "result": "confirmed", "t": "2026-11-04T07:36:23Z", "who": "r29936511db28"}
 {"asn": 12389, "id": "7f89114d1bd0", "ip": "91b6e42cbaf1", "kind": "works", "result": "same", "t": "2026-11-04T07:37:53Z", "who": "r29936511db28"}
+{"asn": 8359, "id": "cf88516fcd18", "ip": "a11fbe55c446", "kind": "share", "result": "pending", "t": "2026-11-04T14:07:01Z", "who": "raf285cad244b"}
+{"asn": 8359, "id": "cf88516fcd18", "ip": "a11fbe55c446", "kind": "share", "result": "waiting", "t": "2026-11-04T14:07:10Z", "who": "raf285cad244b"}

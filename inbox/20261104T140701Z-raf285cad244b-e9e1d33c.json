@@ -1,0 +1,1 @@
+{"t":"2026-11-04T14:07:01Z","who":"raf285cad244b","ip":"a11fbe55c446","name":"","items":[{"kind":"share","asn":8359,"provider":"MTS MTS PJSC","proto":"tls","steps":["--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"],"net":16276,"host":"","nfqws2":"1.3.2","ui":"1.31.0"}]}

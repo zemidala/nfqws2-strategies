@@ -19,3 +19,4 @@
 {"asn": 41733, "id": "95eaa785a575", "ip": "4c4df5184c76", "kind": "share", "result": "waiting", "t": "2026-11-04T21:40:02Z", "who": "rf1c0fb24840b"}
 {"asn": 41733, "id": "8fe259200848", "ip": "4c4df5184c76", "kind": "share", "result": "pending", "t": "2026-11-04T21:40:07Z", "who": "rf1c0fb24840b"}
 {"asn": 25513, "id": "646e06cf900d", "ip": "60b288e42f3c", "kind": "works", "result": "confirmed", "t": "2026-11-05T01:05:51Z", "who": "r0ff3df072cbd"}
+{"asn": 8359, "id": "1e5ff8aff261", "ip": "498e77dd5d0b", "kind": "share", "result": "pending", "t": "2026-11-05T18:00:21Z", "who": "r767a88e66a6d"}

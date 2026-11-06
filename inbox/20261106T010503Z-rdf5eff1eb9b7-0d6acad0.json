@@ -1,1 +1,0 @@
-{"t":"2026-11-06T01:05:03Z","who":"rdf5eff1eb9b7","ip":"c5759056a35d","name":"b619","items":[{"kind":"works","asn":51570,"provider":"SPB-AS JSC ","proto":"tls","steps":["--lua-desync=fake:blob=fake_default_tls:tcp_ack=-66000:tcp_ts_up:tls_mod=rnd,dupsid,padencap","--lua-desync=multisplit:pos=sniext+4"],"net":15169,"host":"youtube.com","nfqws2":"1.3.3","ui":"1.31.0"}]}

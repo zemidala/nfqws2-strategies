@@ -1,7 +1,7 @@
 {
  "asn": 16345,
  "provider": "BEE-AS PJSC",
- "updated": "2026-11-03T23:36:53Z",
+ "updated": "2026-11-06T01:06:24Z",
  "items": [
   {
    "id": "518e73d86e9a",
@@ -18,9 +18,10 @@
      "asn": 13335
     }
    ],
-   "reports": 1,
+   "reports": 2,
    "users": [
-    "06ab7a006608"
+    "06ab7a006608",
+    "rca50e07ee0d4"
    ],
    "fails": 0,
    "fail_users": [],
@@ -28,8 +29,8 @@
     52
    ],
    "first": "2026-11-03",
-   "last": "2026-11-03",
-   "nfqws2": "1.3.2",
+   "last": "2026-11-06",
+   "nfqws2": "1.3.3",
    "by": "06ab7a006608"
   },
   {
@@ -41,6 +42,10 @@
     "--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"
    ],
    "targets": [
+    {
+     "host": "x.com",
+     "asn": 13335
+    },
     {
      "asn": 199524
     },
@@ -54,9 +59,10 @@
      "asn": 20473
     }
    ],
-   "reports": 1,
+   "reports": 2,
    "users": [
-    "06ab7a006608"
+    "06ab7a006608",
+    "rca50e07ee0d4"
    ],
    "fails": 0,
    "fail_users": [],
@@ -67,8 +73,8 @@
     46
    ],
    "first": "2026-11-03",
-   "last": "2026-11-03",
-   "nfqws2": "1.3.2",
+   "last": "2026-11-06",
+   "nfqws2": "1.3.3",
    "by": "06ab7a006608"
   },
   {
@@ -82,13 +88,18 @@
    ],
    "targets": [
     {
+     "host": "x.com",
+     "asn": 13335
+    },
+    {
      "host": "rutracker.org",
      "asn": 13335
     }
    ],
-   "reports": 1,
+   "reports": 2,
    "users": [
-    "06ab7a006608"
+    "06ab7a006608",
+    "rca50e07ee0d4"
    ],
    "fails": 0,
    "fail_users": [],
@@ -96,8 +107,8 @@
     51
    ],
    "first": "2026-11-03",
-   "last": "2026-11-03",
-   "nfqws2": "1.3.2",
+   "last": "2026-11-06",
+   "nfqws2": "1.3.3",
    "by": "06ab7a006608"
   }
  ]

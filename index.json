@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-06T01:05:58Z",
+ "updated": "2026-11-06T01:06:24Z",
  "total": 25,
  "providers": [
   {
@@ -14,8 +14,8 @@
    "asn": 16345,
    "provider": "BEE-AS PJSC",
    "count": 3,
-   "reports": 3,
-   "updated": "2026-11-03T23:36:53Z"
+   "reports": 6,
+   "updated": "2026-11-06T01:06:24Z"
   },
   {
    "asn": 35539,

@@ -1,0 +1,1 @@
+{"t":"2026-11-06T17:49:49Z","who":"rdbadb68959c3","ip":"18e2c5c8ad2d","name":"","items":[{"kind":"share","asn":47118,"provider":"MANNET-AS MAN net Ltd.","proto":"tls","steps":["--lua-desync=fake:blob=tls_clienthello:tcp_md5","--lua-desync=multisplit:pos=1,midsld"],"net":15169,"host":"youtube.com","nfqws2":"1.3.3","ui":"1.31.0"}]}

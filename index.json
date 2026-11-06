@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-06T01:05:12Z",
+ "updated": "2026-11-06T01:05:58Z",
  "total": 25,
  "providers": [
   {
@@ -39,18 +39,18 @@
    "updated": "2026-10-30T20:33:38Z"
   },
   {
+   "asn": 25513,
+   "provider": "ASN-MGTS-USPD PJSC Moscow city telephone network",
+   "count": 2,
+   "reports": 3,
+   "updated": "2026-11-06T01:05:58Z"
+  },
+  {
    "asn": 60840,
    "provider": "TELECOMSERVICEVRN OJSC Telecom-Service",
    "count": 2,
    "reports": 3,
    "updated": "2026-11-03T16:31:48Z"
-  },
-  {
-   "asn": 25513,
-   "provider": "ASN-MGTS-USPD PJSC Moscow city telephone network",
-   "count": 2,
-   "reports": 2,
-   "updated": "2026-11-05T01:06:01Z"
   },
   {
    "asn": 51570,

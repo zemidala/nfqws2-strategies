@@ -11,8 +11,8 @@ Strategies: 25 · providers: 14 · updated 2026-11-06 01:05 UTC. Find your provi
 | [AS35539](providers/AS35539.md) | INFOLINK-T-AS Information and Communication Technologies LLC | 3 | 3 | 2026-10-29 |
 | [AS51973](providers/AS51973.md) | KOLT-AS Koltushsky Internet Ltd | 3 | 3 | 2026-11-01 |
 | [AS8402](providers/AS8402.md) | CORBINA-AS PJSC | 2 | 3 | 2026-10-30 |
+| [AS25513](providers/AS25513.md) | ASN-MGTS-USPD PJSC Moscow city telephone network | 2 | 3 | 2026-11-06 |
 | [AS60840](providers/AS60840.md) | TELECOMSERVICEVRN OJSC Telecom-Service | 2 | 3 | 2026-11-03 |
-| [AS25513](providers/AS25513.md) | ASN-MGTS-USPD PJSC Moscow city telephone network | 2 | 2 | 2026-11-05 |
 | [AS51570](providers/AS51570.md) | SPB-AS JSC | 1 | 2 | 2026-11-06 |
 | [AS13335](providers/AS13335.md) | CLOUDFLARENET - Cloudflare, Inc. | 1 | 1 | 2026-10-11 |
 | [AS31370](providers/AS31370.md) | MOSLINE-AS OOO | 1 | 1 | 2026-10-29 |

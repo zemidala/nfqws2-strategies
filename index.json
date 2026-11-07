@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-06T23:05:28Z",
+ "updated": "2026-11-07T00:44:10Z",
  "total": 25,
  "providers": [
   {
@@ -18,6 +18,13 @@
    "updated": "2026-11-06T01:06:24Z"
   },
   {
+   "asn": 8402,
+   "provider": "CORBINA-AS PJSC",
+   "count": 2,
+   "reports": 4,
+   "updated": "2026-11-07T00:44:10Z"
+  },
+  {
    "asn": 35539,
    "provider": "INFOLINK-T-AS Information and Communication Technologies LLC",
    "count": 3,
@@ -30,13 +37,6 @@
    "count": 3,
    "reports": 3,
    "updated": "2026-11-01T19:00:05Z"
-  },
-  {
-   "asn": 8402,
-   "provider": "CORBINA-AS PJSC",
-   "count": 2,
-   "reports": 3,
-   "updated": "2026-10-30T20:33:38Z"
   },
   {
    "asn": 25513,

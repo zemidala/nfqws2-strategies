@@ -1,7 +1,7 @@
 {
  "asn": 8402,
  "provider": "CORBINA-AS PJSC",
- "updated": "2026-11-07T01:05:30Z",
+ "updated": "2026-11-07T12:11:42Z",
  "items": [
   {
    "id": "0adf38777f40",
@@ -12,6 +12,9 @@
     "--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"
    ],
    "targets": [
+    {
+     "asn": 13335
+    },
     {
      "host": "x.com",
      "asn": 13335

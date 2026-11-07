@@ -1,0 +1,1 @@
+{"t":"2026-11-07T23:10:45Z","who":"rd7f145da4f8b","ip":"f0da25061868","name":"","items":[{"kind":"share","asn":60840,"provider":"TELECOMSERVICEVRN OJSC Telecom-Service","proto":"tls","steps":["--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"],"net":63949,"host":"","nfqws2":"1.3.3","ui":"1.32.0"}]}

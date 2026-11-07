@@ -1,1 +1,0 @@
-{"t":"2026-11-07T00:44:00Z","who":"rac741ddd53e0","ip":"52bf0827cead","name":"Katrovsky","items":[{"kind":"share","asn":8402,"provider":"CORBINA-AS PJSC ","proto":"tls","steps":["--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"],"net":24940,"host":"","nfqws2":"1.3.3","ui":"1.32.0"}]}

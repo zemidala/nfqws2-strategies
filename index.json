@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-07T23:01:00Z",
+ "updated": "2026-11-07T23:05:11Z",
  "total": 25,
  "providers": [
   {
@@ -60,6 +60,13 @@
    "updated": "2026-11-06T01:05:12Z"
   },
   {
+   "asn": 60095,
+   "provider": "NN-AS JSC",
+   "count": 1,
+   "reports": 2,
+   "updated": "2026-11-07T23:05:11Z"
+  },
+  {
    "asn": 13335,
    "provider": "CLOUDFLARENET - Cloudflare, Inc.",
    "count": 1,
@@ -86,13 +93,6 @@
    "count": 1,
    "reports": 1,
    "updated": "2026-10-23T13:33:12Z"
-  },
-  {
-   "asn": 60095,
-   "provider": "NN-AS JSC",
-   "count": 1,
-   "reports": 1,
-   "updated": "2026-10-18T08:56:53Z"
   },
   {
    "asn": 215439,

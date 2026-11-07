@@ -1,8 +1,8 @@
 # Strategies by provider / Стратегии по провайдерам
 
-Strategies: 25 · providers: 14 · updated 2026-11-07 23:01 UTC. Find your provider (AS number) and open its page. Generated after every submission — do not edit by hand.
+Strategies: 25 · providers: 14 · updated 2026-11-07 23:05 UTC. Find your provider (AS number) and open its page. Generated after every submission — do not edit by hand.
 
-Стратегий: 25, провайдеров: 14, обновлено 2026-11-07 23:01 UTC. Найдите своего провайдера (номер AS) и откройте его страницу — эти стратегии nfqws2-ui проверяет при подборе первыми. Номер AS вашего провайдера показан в nfqws2-ui: «Проверка сайта → Стратегии сообщества». Файл собирается сам после каждой заявки.
+Стратегий: 25, провайдеров: 14, обновлено 2026-11-07 23:05 UTC. Найдите своего провайдера (номер AS) и откройте его страницу — эти стратегии nfqws2-ui проверяет при подборе первыми. Номер AS вашего провайдера показан в nfqws2-ui: «Проверка сайта → Стратегии сообщества». Файл собирается сам после каждой заявки.
 
 | AS | Provider / Провайдер | Strategies / Стратегий | Confirmed / Подтверждений | Updated / Обновлено |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ Strategies: 25 · providers: 14 · updated 2026-11-07 23:01 UTC. Find your provi
 | [AS51973](providers/AS51973.md) | KOLT-AS Koltushsky Internet Ltd | 3 | 3 | 2026-11-01 |
 | [AS25513](providers/AS25513.md) | ASN-MGTS-USPD PJSC Moscow city telephone network | 2 | 3 | 2026-11-06 |
 | [AS51570](providers/AS51570.md) | SPB-AS JSC | 1 | 2 | 2026-11-06 |
+| [AS60095](providers/AS60095.md) | NN-AS JSC | 1 | 2 | 2026-11-07 |
 | [AS13335](providers/AS13335.md) | CLOUDFLARENET - Cloudflare, Inc. | 1 | 1 | 2026-10-11 |
 | [AS31370](providers/AS31370.md) | MOSLINE-AS OOO | 1 | 1 | 2026-10-29 |
 | [AS35816](providers/AS35816.md) | SEVSTAR Lancom Ltd. | 1 | 1 | 2026-10-28 |
 | [AS39927](providers/AS39927.md) | Elight-AS E-Light-Telecom Ltd. | 1 | 1 | 2026-10-23 |
-| [AS60095](providers/AS60095.md) | NN-AS JSC | 1 | 1 | 2026-10-18 |
 | [AS215439](providers/AS215439.md) | PLAY2GO-NET PLAY2GO INTERNATIONAL LIMITED | 1 | 1 | 2026-10-07 |

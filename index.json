@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-07T01:05:15Z",
+ "updated": "2026-11-07T01:05:30Z",
  "total": 25,
  "providers": [
   {
@@ -11,18 +11,18 @@
    "updated": "2026-11-06T23:05:28Z"
   },
   {
+   "asn": 8402,
+   "provider": "CORBINA-AS PJSC",
+   "count": 2,
+   "reports": 8,
+   "updated": "2026-11-07T01:05:30Z"
+  },
+  {
    "asn": 16345,
    "provider": "BEE-AS PJSC",
    "count": 3,
    "reports": 6,
    "updated": "2026-11-06T01:06:24Z"
-  },
-  {
-   "asn": 8402,
-   "provider": "CORBINA-AS PJSC",
-   "count": 2,
-   "reports": 6,
-   "updated": "2026-11-07T01:05:15Z"
   },
   {
    "asn": 35539,

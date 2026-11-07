@@ -1,7 +1,7 @@
 {
  "asn": 8402,
  "provider": "CORBINA-AS PJSC",
- "updated": "2026-11-07T01:05:15Z",
+ "updated": "2026-11-07T01:05:30Z",
  "items": [
   {
    "id": "0adf38777f40",
@@ -35,12 +35,13 @@
      "asn": 15169
     }
    ],
-   "reports": 4,
+   "reports": 5,
    "users": [
     "64643cb0c144",
     "870311a0ae92",
     "rac741ddd53e0",
-    "rb82ba2c89028"
+    "rb82ba2c89028",
+    "r5fbe2cba3318"
    ],
    "fails": 0,
    "fail_users": [],
@@ -62,14 +63,19 @@
    ],
    "targets": [
     {
+     "host": "youtube.com",
+     "asn": 15169
+    },
+    {
      "host": "www.youtube.com",
      "asn": 15169
     }
    ],
-   "reports": 2,
+   "reports": 3,
    "users": [
     "657164744feb",
-    "rb82ba2c89028"
+    "rb82ba2c89028",
+    "r5fbe2cba3318"
    ],
    "fails": 0,
    "fail_users": [],

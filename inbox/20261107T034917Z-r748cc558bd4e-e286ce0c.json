@@ -1,1 +1,0 @@
-{"t":"2026-11-07T03:49:17Z","who":"r748cc558bd4e","ip":"50824f1d7ac5","name":"","items":[{"kind":"share","asn":12958,"provider":"MCC T2 Mobile LLC","proto":"tls","steps":["--lua-desync=fake:blob=tls_max:tcp_ts=-600000:tcp_ts_up:repeats=20","--lua-desync=multisplit:pos=1:seqovl=480:seqovl_pattern=stun2_fake"],"net":14061,"host":"","nfqws2":"1.3.3","ui":"1.31.0"}]}

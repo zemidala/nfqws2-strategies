@@ -1,0 +1,32 @@
+{
+ "asn": 60840,
+ "provider": "",
+ "updated": "2026-11-07T23:10:37Z",
+ "items": [
+  {
+   "id": "257bb08a0864",
+   "asn": 60840,
+   "provider": "TELECOMSERVICEVRN OJSC Telecom-Service",
+   "proto": "tls",
+   "steps": [
+    "--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ad.adriver.ru"
+   ],
+   "targets": [
+    {
+     "asn": 8849
+    }
+   ],
+   "reports": 1,
+   "users": [
+    "rd7f145da4f8b"
+   ],
+   "fails": 0,
+   "fail_users": [],
+   "issues": [],
+   "first": "2026-11-07",
+   "last": "2026-11-07",
+   "nfqws2": "1.3.3",
+   "by": "rd7f145da4f8b"
+  }
+ ]
+}

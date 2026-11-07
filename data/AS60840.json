@@ -1,7 +1,7 @@
 {
  "asn": 60840,
  "provider": "TELECOMSERVICEVRN OJSC Telecom-Service",
- "updated": "2026-11-07T23:00:36Z",
+ "updated": "2026-11-07T23:00:48Z",
  "items": [
   {
    "id": "547dfd7d52f4",
@@ -12,6 +12,15 @@
     "--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"
    ],
    "targets": [
+    {
+     "asn": 20940
+    },
+    {
+     "asn": 31898
+    },
+    {
+     "asn": 12876
+    },
     {
      "asn": 14061
     },

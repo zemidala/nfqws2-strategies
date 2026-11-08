@@ -1,0 +1,1 @@
+{"t":"2026-11-08T01:05:04Z","who":"rfcb9f23bb9f7","ip":"88b089b74e2c","name":"","items":[{"kind":"works","asn":13335,"provider":"CLOUDFLARENET - Cloudflare, Inc.","proto":"tls","steps":["--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"],"net":15169,"host":"youtube.com","nfqws2":"1.3.3","ui":"1.32.0"}]}

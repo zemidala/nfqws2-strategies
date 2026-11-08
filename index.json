@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-07T23:37:53Z",
+ "updated": "2026-11-08T01:05:12Z",
  "total": 25,
  "providers": [
   {
@@ -15,7 +15,7 @@
    "provider": "CORBINA-AS PJSC",
    "count": 2,
    "reports": 8,
-   "updated": "2026-11-07T12:11:42Z"
+   "updated": "2026-11-08T01:05:12Z"
   },
   {
    "asn": 16345,
@@ -53,6 +53,20 @@
    "updated": "2026-11-06T01:05:58Z"
   },
   {
+   "asn": 13335,
+   "provider": "CLOUDFLARENET - Cloudflare, Inc.",
+   "count": 1,
+   "reports": 2,
+   "updated": "2026-11-08T01:05:12Z"
+  },
+  {
+   "asn": 35816,
+   "provider": "SEVSTAR Lancom Ltd.",
+   "count": 1,
+   "reports": 2,
+   "updated": "2026-11-08T01:05:12Z"
+  },
+  {
    "asn": 51570,
    "provider": "SPB-AS JSC",
    "count": 1,
@@ -67,25 +81,11 @@
    "updated": "2026-11-07T23:05:11Z"
   },
   {
-   "asn": 13335,
-   "provider": "CLOUDFLARENET - Cloudflare, Inc.",
-   "count": 1,
-   "reports": 1,
-   "updated": "2026-10-11T07:28:04Z"
-  },
-  {
    "asn": 31370,
    "provider": "MOSLINE-AS OOO",
    "count": 1,
    "reports": 1,
    "updated": "2026-10-29T00:19:08Z"
-  },
-  {
-   "asn": 35816,
-   "provider": "SEVSTAR Lancom Ltd.",
-   "count": 1,
-   "reports": 1,
-   "updated": "2026-10-28T08:49:43Z"
   },
   {
    "asn": 39927,

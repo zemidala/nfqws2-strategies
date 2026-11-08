@@ -59,3 +59,6 @@
 {"asn": 60840, "id": "257bb08a0864", "ip": "f0da25061868", "kind": "share", "result": "pending", "t": "2026-11-07T23:10:29Z", "who": "rd7f145da4f8b"}
 {"asn": 60840, "id": "547dfd7d52f4", "ip": "f0da25061868", "kind": "share", "result": "confirmed", "t": "2026-11-07T23:10:34Z", "who": "rd7f145da4f8b"}
 {"asn": 12389, "id": "7f89114d1bd0", "ip": "95cebc386f34", "kind": "works", "result": "confirmed", "t": "2026-11-07T23:37:45Z", "who": "r914907591987"}
+{"asn": 35816, "id": "89751da01752", "ip": "afc38390ba74", "kind": "works", "result": "confirmed", "t": "2026-11-08T01:05:02Z", "who": "r7cd36ac5ea9a"}
+{"asn": 13335, "id": "1ec08f6ef05d", "ip": "88b089b74e2c", "kind": "works", "result": "confirmed", "t": "2026-11-08T01:05:04Z", "who": "rfcb9f23bb9f7"}
+{"asn": 8402, "id": "0adf38777f40", "ip": "a399dd9874ac", "kind": "works", "result": "confirmed", "t": "2026-11-08T01:05:07Z", "who": "r5fbe2cba3318"}

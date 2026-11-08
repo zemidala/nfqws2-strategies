@@ -1,0 +1,1 @@
+{"t":"2026-11-08T01:05:02Z","who":"r7cd36ac5ea9a","ip":"afc38390ba74","name":"","items":[{"kind":"works","asn":35816,"provider":"SEVSTAR Lancom Ltd.","proto":"tls","steps":["--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"],"net":16509,"host":"","nfqws2":"1.3.3","ui":"1.32.0"}]}

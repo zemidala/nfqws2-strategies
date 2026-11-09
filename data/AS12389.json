@@ -1,7 +1,7 @@
 {
  "asn": 12389,
  "provider": "ROSTELECOM-AS PJSC Rostelecom",
- "updated": "2026-11-09T00:05:18Z",
+ "updated": "2026-11-09T04:05:11Z",
  "items": [
   {
    "id": "7f89114d1bd0",
@@ -12,6 +12,10 @@
     "--lua-desync=hostfakesplit:host=www.google.com:tcp_ts=-600000:tcp_ts_up"
    ],
    "targets": [
+    {
+     "host": "youtube.com",
+     "asn": 15169
+    },
     {
      "host": "rr4---sn-q4flrnl7.googlevideo.com",
      "asn": 15169

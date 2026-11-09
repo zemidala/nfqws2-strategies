@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-09T00:05:18Z",
+ "updated": "2026-11-09T01:05:36Z",
  "total": 25,
  "providers": [
   {
@@ -53,6 +53,13 @@
    "updated": "2026-11-06T01:05:58Z"
   },
   {
+   "asn": 51570,
+   "provider": "SPB-AS JSC",
+   "count": 1,
+   "reports": 3,
+   "updated": "2026-11-09T01:05:36Z"
+  },
+  {
    "asn": 13335,
    "provider": "CLOUDFLARENET - Cloudflare, Inc.",
    "count": 1,
@@ -65,13 +72,6 @@
    "count": 1,
    "reports": 2,
    "updated": "2026-11-08T01:05:12Z"
-  },
-  {
-   "asn": 51570,
-   "provider": "SPB-AS JSC",
-   "count": 1,
-   "reports": 2,
-   "updated": "2026-11-06T01:05:12Z"
   },
   {
    "asn": 60095,

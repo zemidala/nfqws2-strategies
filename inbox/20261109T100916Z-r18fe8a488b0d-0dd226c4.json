@@ -1,1 +1,0 @@
-{"t":"2026-11-09T10:09:16Z","who":"r18fe8a488b0d","ip":"3e89aa3ed01b","name":"","items":[{"kind":"share","asn":12714,"provider":"MEGAFON-AS PJSC MegaFon","proto":"tls","steps":["--lua-desync=fake:blob=fake_default_tls:tcp_flags_unset=ACK","--lua-desync=multisplit:pos=2"],"net":13335,"host":"","nfqws2":"1.3.3","ui":"1.33.2"}]}

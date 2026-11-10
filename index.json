@@ -1,14 +1,14 @@
 {
  "version": 2,
- "updated": "2026-11-10T00:41:19Z",
+ "updated": "2026-11-10T01:05:16Z",
  "total": 25,
  "providers": [
   {
    "asn": 12389,
    "provider": "ROSTELECOM-AS PJSC Rostelecom",
    "count": 3,
-   "reports": 15,
-   "updated": "2026-11-09T04:05:11Z"
+   "reports": 16,
+   "updated": "2026-11-10T01:05:16Z"
   },
   {
    "asn": 8402,
@@ -53,18 +53,18 @@
    "updated": "2026-11-06T01:05:58Z"
   },
   {
+   "asn": 13335,
+   "provider": "CLOUDFLARENET - Cloudflare, Inc.",
+   "count": 1,
+   "reports": 3,
+   "updated": "2026-11-10T01:05:16Z"
+  },
+  {
    "asn": 51570,
    "provider": "SPB-AS JSC",
    "count": 1,
    "reports": 3,
    "updated": "2026-11-09T01:05:36Z"
-  },
-  {
-   "asn": 13335,
-   "provider": "CLOUDFLARENET - Cloudflare, Inc.",
-   "count": 1,
-   "reports": 2,
-   "updated": "2026-11-08T01:05:12Z"
   },
   {
    "asn": 35816,

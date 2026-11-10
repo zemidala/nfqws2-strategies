@@ -81,3 +81,6 @@
 {"asn": 57378, "id": "57f09a6292a6", "ip": "8d08d806a9d9", "kind": "share", "result": "pending", "t": "2026-11-09T16:34:03Z", "who": "rc0565deb6ee8"}
 {"asn": 47954, "id": "d422e4e59790", "ip": "406721277db9", "kind": "share", "result": "pending", "t": "2026-11-10T00:18:23Z", "who": "rf6a8737d078f"}
 {"asn": 47954, "id": "d6c0e8aec021", "ip": "406721277db9", "kind": "share", "result": "pending", "t": "2026-11-10T00:18:49Z", "who": "rf6a8737d078f"}
+{"asn": 13335, "id": "1ec08f6ef05d", "ip": "953406363baa", "kind": "works", "result": "confirmed", "t": "2026-11-10T01:05:05Z", "who": "r2fee48da6686"}
+{"asn": 13335, "id": "1ec08f6ef05d", "ip": "953406363baa", "kind": "works", "result": "confirmed", "t": "2026-11-10T01:05:05Z", "who": "r2fee48da6686"}
+{"asn": 12389, "id": "7f89114d1bd0", "ip": "2671a447a4fc", "kind": "works", "result": "confirmed", "t": "2026-11-10T01:05:06Z", "who": "re89595c72b2c"}

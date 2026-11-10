@@ -92,3 +92,5 @@
 {"asn": 12389, "id": "7f89114d1bd0", "ip": "e03f4eaa3af7", "kind": "works", "result": "confirmed", "t": "2026-11-10T06:14:09Z", "who": "r50febc79648f"}
 {"asn": 12389, "id": "c6816250d95a", "ip": "408050886bb6", "kind": "share", "result": "pending", "t": "2026-11-10T07:44:19Z", "who": "r84ce73326729"}
 {"asn": 12389, "id": "629237a97c07", "ip": "600942feab83", "kind": "fails", "result": "failed", "t": "2026-11-10T09:51:53Z", "who": "r73db6ab56748"}
+{"asn": 12389, "id": "33caed1df205", "ip": "600942feab83", "kind": "fails", "result": "failed", "t": "2026-11-10T09:52:27Z", "who": "r73db6ab56748"}
+{"asn": 3216, "id": "6afe8b5342c8", "ip": "11134cfa4a4f", "kind": "share", "result": "pending", "t": "2026-11-10T11:30:03Z", "who": "r7d4880571e9b"}

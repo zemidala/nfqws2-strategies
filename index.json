@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-10T19:29:40Z",
+ "updated": "2026-11-10T19:39:28Z",
  "total": 25,
  "providers": [
   {
@@ -14,8 +14,8 @@
    "asn": 8402,
    "provider": "CORBINA-AS PJSC",
    "count": 2,
-   "reports": 8,
-   "updated": "2026-11-08T01:05:12Z"
+   "reports": 9,
+   "updated": "2026-11-10T19:39:28Z"
   },
   {
    "asn": 16345,

@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-10T01:05:16Z",
+ "updated": "2026-11-10T01:07:44Z",
  "total": 25,
  "providers": [
   {
@@ -25,18 +25,18 @@
    "updated": "2026-11-06T01:06:24Z"
   },
   {
+   "asn": 35539,
+   "provider": "INFOLINK-T-AS Information and Communication Technologies LLC",
+   "count": 3,
+   "reports": 6,
+   "updated": "2026-11-10T01:07:44Z"
+  },
+  {
    "asn": 60840,
    "provider": "TELECOMSERVICEVRN OJSC Telecom-Service",
    "count": 2,
    "reports": 4,
    "updated": "2026-11-07T23:10:37Z"
-  },
-  {
-   "asn": 35539,
-   "provider": "INFOLINK-T-AS Information and Communication Technologies LLC",
-   "count": 3,
-   "reports": 3,
-   "updated": "2026-10-29T00:19:17Z"
   },
   {
    "asn": 51973,

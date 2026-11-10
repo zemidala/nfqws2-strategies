@@ -1,0 +1,34 @@
+{
+ "asn": 47954,
+ "provider": "",
+ "updated": "2026-11-10T00:18:32Z",
+ "items": [
+  {
+   "id": "d422e4e59790",
+   "asn": 47954,
+   "provider": "AlfaNetTelecom-AS Alpha Net Telecom Ltd",
+   "proto": "tls",
+   "steps": [
+    "--lua-desync=hostfakesplit:badsum"
+   ],
+   "targets": [
+    {
+     "host": "youtube.com",
+     "asn": 15169
+    }
+   ],
+   "reports": 1,
+   "users": [
+    "rf6a8737d078f"
+   ],
+   "fails": 0,
+   "fail_users": [],
+   "issues": [],
+   "first": "2026-11-10",
+   "last": "2026-11-10",
+   "nfqws2": "1.3.3",
+   "by": "rf6a8737d078f",
+   "author": "3u63n3"
+  }
+ ]
+}

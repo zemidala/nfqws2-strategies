@@ -1,0 +1,1 @@
+{"t":"2026-11-10T18:24:13Z","who":"ra4a6ee01dcb4","ip":"a2a6b1cf68f5","name":"","items":[{"kind":"share","asn":35125,"provider":"SMOLENSK-AS PJSC Rostelecom","proto":"tls","steps":["--lua-desync=fake:blob=fake_default_tls:tcp_ack=-66000:tcp_ts_up:tls_mod=rnd,dupsid,padencap"],"net":15169,"host":"googlevideo.com","nfqws2":"1.3.3","ui":"1.33.2"}]}

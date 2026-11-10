@@ -1,1 +1,0 @@
-{"t":"2026-11-10T14:02:54Z","who":"r58c9ac69e5b3","ip":"dc860f7705a2","name":"","items":[{"kind":"share","asn":42610,"provider":"NCNET-AS PJSC Rostelecom","proto":"tls","steps":["--lua-desync=fake:blob=fake_default_tls:badsum","--lua-desync=multisplit:pos=2"],"net":13335,"host":"x.com","nfqws2":"1.3.3","ui":"1.33.2"}]}

@@ -1,0 +1,35 @@
+{
+ "asn": 35539,
+ "provider": "",
+ "updated": "2026-11-10T19:29:40Z",
+ "items": [
+  {
+   "id": "3d396184835c",
+   "asn": 35539,
+   "provider": "INFOLINK-T-AS Information and Communication Technologies LLC",
+   "proto": "tls",
+   "steps": [
+    "--lua-desync=fake:blob=fake_default_tls:ip_ttl=1:tls_mod=rnd,dupsid,padencap",
+    "--lua-desync=multidisorder:pos=1,midsld,1220"
+   ],
+   "targets": [
+    {
+     "host": "googlevideo.com",
+     "asn": 15169
+    }
+   ],
+   "reports": 1,
+   "users": [
+    "ra9f622d5ffff"
+   ],
+   "fails": 0,
+   "fail_users": [],
+   "issues": [],
+   "first": "2026-11-10",
+   "last": "2026-11-10",
+   "nfqws2": "1.2.6",
+   "by": "ra9f622d5ffff",
+   "author": "Darth Kadaver"
+  }
+ ]
+}

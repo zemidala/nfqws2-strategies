@@ -1,0 +1,1 @@
+{"t":"2026-11-10T07:44:19Z","who":"r84ce73326729","ip":"408050886bb6","name":"","items":[{"kind":"share","asn":12389,"provider":"ROSTELECOM-AS PJSC Rostelecom","proto":"tls","steps":["--lua-desync=fake:blob=fake_default_tls:tcp_seq=-3000","--lua-desync=multisplit:pos=midsld"],"net":15169,"host":"googlevideo.com","nfqws2":"1.3.3","ui":"1.33.2"}]}

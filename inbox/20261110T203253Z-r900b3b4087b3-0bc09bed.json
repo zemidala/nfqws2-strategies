@@ -1,1 +1,0 @@
-{"t":"2026-11-10T20:32:53Z","who":"r900b3b4087b3","ip":"bf906c8b2256","name":"copybara","items":[{"kind":"share","asn":34533,"provider":"ESAMARA-AS JSC ","proto":"tls","steps":["--lua-desync=multisplit:pos=1:seqovl=1:seqovl_pattern=tls_clienthello"],"net":13335,"host":"x.com","nfqws2":"1.3.3","ui":"1.33.2"}]}

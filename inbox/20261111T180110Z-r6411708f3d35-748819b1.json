@@ -1,1 +1,0 @@
-{"t":"2026-11-11T18:01:10Z","who":"r6411708f3d35","ip":"27620ed170b9","name":"","items":[{"kind":"share","asn":57378,"provider":"ROSTOV-AS JSC ","proto":"tls","steps":["--lua-desync=hostfakesplit:tcp_md5"],"net":15169,"host":"youtube.com","nfqws2":"1.3.3","ui":"1.33.4"}]}

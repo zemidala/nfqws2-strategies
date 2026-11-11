@@ -1,1 +1,0 @@
-{"t":"2026-11-11T01:05:05Z","who":"re89595c72b2c","ip":"21ac5dafd512","name":"Biba","items":[{"kind":"works","asn":12389,"provider":"ROSTELECOM-AS PJSC Rostelecom","proto":"tls","steps":["--lua-desync=hostfakesplit:host=www.google.com:tcp_ts=-600000:tcp_ts_up"],"net":15169,"host":"youtube.com","nfqws2":"1.3.3","ui":"1.33.2"}]}

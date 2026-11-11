@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-10T22:48:50Z",
+ "updated": "2026-11-11T01:05:14Z",
  "total": 25,
  "providers": [
   {
@@ -8,7 +8,14 @@
    "provider": "ROSTELECOM-AS PJSC Rostelecom",
    "count": 3,
    "reports": 17,
-   "updated": "2026-11-10T11:30:14Z"
+   "updated": "2026-11-11T01:05:14Z"
+  },
+  {
+   "asn": 35539,
+   "provider": "INFOLINK-T-AS Information and Communication Technologies LLC",
+   "count": 3,
+   "reports": 9,
+   "updated": "2026-11-11T01:05:14Z"
   },
   {
    "asn": 8402,
@@ -23,13 +30,6 @@
    "count": 3,
    "reports": 6,
    "updated": "2026-11-06T01:06:24Z"
-  },
-  {
-   "asn": 35539,
-   "provider": "INFOLINK-T-AS Information and Communication Technologies LLC",
-   "count": 3,
-   "reports": 6,
-   "updated": "2026-11-10T01:07:44Z"
   },
   {
    "asn": 60840,
@@ -57,7 +57,7 @@
    "provider": "CLOUDFLARENET - Cloudflare, Inc.",
    "count": 1,
    "reports": 3,
-   "updated": "2026-11-10T01:05:16Z"
+   "updated": "2026-11-11T01:05:14Z"
   },
   {
    "asn": 51570,

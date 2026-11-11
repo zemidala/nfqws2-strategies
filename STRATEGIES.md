@@ -1,12 +1,12 @@
 # Strategies by provider / Стратегии по провайдерам
 
-Strategies: 25 · providers: 14 · updated 2026-11-11 13:39 UTC. Find your provider (AS number) and open its page. Generated after every submission — do not edit by hand.
+Strategies: 25 · providers: 14 · updated 2026-11-11 15:55 UTC. Find your provider (AS number) and open its page. Generated after every submission — do not edit by hand.
 
-Стратегий: 25, провайдеров: 14, обновлено 2026-11-11 13:39 UTC. Найдите своего провайдера (номер AS) и откройте его страницу — эти стратегии nfqws2-ui проверяет при подборе первыми. Номер AS вашего провайдера показан в nfqws2-ui: «Проверка сайта → Стратегии сообщества». Файл собирается сам после каждой заявки.
+Стратегий: 25, провайдеров: 14, обновлено 2026-11-11 15:55 UTC. Найдите своего провайдера (номер AS) и откройте его страницу — эти стратегии nfqws2-ui проверяет при подборе первыми. Номер AS вашего провайдера показан в nfqws2-ui: «Проверка сайта → Стратегии сообщества». Файл собирается сам после каждой заявки.
 
 | AS | Provider / Провайдер | Strategies / Стратегий | Confirmed / Подтверждений | Updated / Обновлено |
 |---|---|---|---|---|
-| [AS12389](providers/AS12389.md) | ROSTELECOM-AS PJSC Rostelecom | 3 | 17 | 2026-11-11 |
+| [AS12389](providers/AS12389.md) | ROSTELECOM-AS PJSC Rostelecom | 3 | 18 | 2026-11-11 |
 | [AS35539](providers/AS35539.md) | INFOLINK-T-AS Information and Communication Technologies LLC | 3 | 9 | 2026-11-11 |
 | [AS8402](providers/AS8402.md) | CORBINA-AS PJSC | 2 | 9 | 2026-11-10 |
 | [AS16345](providers/AS16345.md) | BEE-AS PJSC | 3 | 6 | 2026-11-06 |

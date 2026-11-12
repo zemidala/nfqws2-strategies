@@ -1,7 +1,7 @@
 {
  "asn": 8359,
  "provider": "MTS MTS PJSC",
- "updated": "2026-11-12T09:57:19Z",
+ "updated": "2026-11-12T09:57:35Z",
  "items": [
   {
    "id": "0bb73442bbfa",
@@ -61,6 +61,35 @@
    "fail_users": [],
    "issues": [
     57
+   ],
+   "first": "2026-11-12",
+   "last": "2026-11-12",
+   "nfqws2": "",
+   "by": "a889e76d30ce"
+  },
+  {
+   "id": "8ae91cb657eb",
+   "asn": 8359,
+   "provider": "MTS MTS PJSC",
+   "proto": "tls",
+   "steps": [
+    "--lua-desync=fakedsplit:pos=method+2:ip_ttl=4:ip6_ttl=4",
+    "--lua-desync=fakedsplit:pos=1,midsld:ip_ttl=4:ip6_ttl=4"
+   ],
+   "targets": [
+    {
+     "host": "instagram.com",
+     "asn": 32934
+    }
+   ],
+   "reports": 1,
+   "users": [
+    "a889e76d30ce"
+   ],
+   "fails": 0,
+   "fail_users": [],
+   "issues": [
+    59
    ],
    "first": "2026-11-12",
    "last": "2026-11-12",

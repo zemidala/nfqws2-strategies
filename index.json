@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-12T00:05:17Z",
+ "updated": "2026-11-12T01:05:14Z",
  "total": 25,
  "providers": [
   {
@@ -35,8 +35,8 @@
    "asn": 60840,
    "provider": "TELECOMSERVICEVRN OJSC Telecom-Service",
    "count": 2,
-   "reports": 4,
-   "updated": "2026-11-07T23:10:37Z"
+   "reports": 5,
+   "updated": "2026-11-12T01:05:14Z"
   },
   {
    "asn": 51973,
@@ -57,7 +57,7 @@
    "provider": "CLOUDFLARENET - Cloudflare, Inc.",
    "count": 1,
    "reports": 3,
-   "updated": "2026-11-11T01:05:14Z"
+   "updated": "2026-11-12T01:05:14Z"
   },
   {
    "asn": 51570,

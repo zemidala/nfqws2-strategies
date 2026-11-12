@@ -1,0 +1,1 @@
+{"t":"2026-11-12T09:06:01Z","who":"rf35fa0b50f3b","ip":"e3043767e31a","name":"","items":[{"kind":"share","asn":35807,"provider":"AS-SKYNET-SPB SkyNet Ltd.","proto":"tls","steps":["--lua-desync=fake:blob=tls_clienthello:tcp_md5","--lua-desync=multisplit:pos=1,midsld"],"net":15169,"host":"youtube.com","nfqws2":"1.3.3","ui":"1.33.2"}]}

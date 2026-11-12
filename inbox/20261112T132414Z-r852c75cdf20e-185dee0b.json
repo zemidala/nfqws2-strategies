@@ -1,0 +1,1 @@
+{"t":"2026-11-12T13:24:14Z","who":"r852c75cdf20e","ip":"f774d8b67d84","name":"spawn2","items":[{"kind":"share","asn":21017,"provider":"VSI-AS PJSC Rostelecom","proto":"tls","steps":["--lua-desync=fake:blob=tls_clienthello:tcp_seq=-10000","--lua-desync=multidisorder:pos=1,midsld"],"net":13335,"host":"rutracker.org","nfqws2":"1.3.3","ui":"1.33.6"}]}

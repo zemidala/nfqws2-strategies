@@ -1,1 +1,0 @@
-{"t":"2026-11-12T15:21:11Z","who":"rbf798a3b6ca3","ip":"ffaf5e5c53de","name":"","items":[{"kind":"works","asn":35816,"provider":"SEVSTAR Lancom Ltd.","proto":"tls","steps":["--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"],"net":15169,"host":"googlevideo.com","nfqws2":"1.3.3","ui":"1.33.6"}]}

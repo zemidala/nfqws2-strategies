@@ -1,1 +1,0 @@
-{"t":"2026-11-12T19:52:47Z","who":"ra580548d6960","ip":"38bbb7d6c128","name":"","items":[{"kind":"share","asn":49641,"provider":"ALFACOM-AS OOO ","proto":"tls","steps":["--lua-desync=fake:blob=tls_clienthello:badsum","--lua-desync=multisplit:pos=1,midsld"],"net":15169,"host":"youtube.com","nfqws2":"1.3.3","ui":"1.33.6"}]}

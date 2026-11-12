@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-12T13:24:24Z",
+ "updated": "2026-11-12T15:21:25Z",
  "total": 29,
  "providers": [
   {
@@ -67,18 +67,18 @@
    "updated": "2026-11-12T01:05:14Z"
   },
   {
+   "asn": 35816,
+   "provider": "SEVSTAR Lancom Ltd.",
+   "count": 1,
+   "reports": 3,
+   "updated": "2026-11-12T15:21:25Z"
+  },
+  {
    "asn": 51570,
    "provider": "SPB-AS JSC",
    "count": 1,
    "reports": 3,
    "updated": "2026-11-09T01:05:36Z"
-  },
-  {
-   "asn": 35816,
-   "provider": "SEVSTAR Lancom Ltd.",
-   "count": 1,
-   "reports": 2,
-   "updated": "2026-11-08T01:05:12Z"
   },
   {
    "asn": 60095,

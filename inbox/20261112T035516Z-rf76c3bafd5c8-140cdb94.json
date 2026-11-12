@@ -1,0 +1,1 @@
+{"t":"2026-11-12T03:55:16Z","who":"rf76c3bafd5c8","ip":"082423981083","name":"","items":[{"kind":"share","asn":41275,"provider":"LEALTA-AS Lovitel LLC","proto":"tls","steps":["--lua-desync=multisplit:blob=fake_default_tls:tcp_md5:pos=2:nodrop","--lua-desync=multisplit:pos=host+1"],"net":15169,"host":"youtube.com","nfqws2":"1.3.3","ui":"1.33.6"}]}

@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updated": "2026-11-12T09:56:52Z",
- "total": 27,
+ "updated": "2026-11-12T09:57:19Z",
+ "total": 28,
  "providers": [
   {
    "asn": 12389,
@@ -39,6 +39,13 @@
    "updated": "2026-11-12T01:05:14Z"
   },
   {
+   "asn": 8359,
+   "provider": "MTS MTS PJSC",
+   "count": 3,
+   "reports": 3,
+   "updated": "2026-11-12T09:57:19Z"
+  },
+  {
    "asn": 51973,
    "provider": "KOLT-AS Koltushsky Internet Ltd",
    "count": 3,
@@ -65,13 +72,6 @@
    "count": 1,
    "reports": 3,
    "updated": "2026-11-09T01:05:36Z"
-  },
-  {
-   "asn": 8359,
-   "provider": "MTS MTS PJSC",
-   "count": 2,
-   "reports": 2,
-   "updated": "2026-11-12T09:56:52Z"
   },
   {
    "asn": 35816,

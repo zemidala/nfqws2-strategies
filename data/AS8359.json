@@ -1,8 +1,40 @@
 {
  "asn": 8359,
  "provider": "MTS MTS PJSC",
- "updated": "2026-11-12T09:56:26Z",
+ "updated": "2026-11-12T09:56:52Z",
  "items": [
+  {
+   "id": "79644ca910bf",
+   "asn": 8359,
+   "provider": "MTS MTS PJSC",
+   "proto": "tls",
+   "steps": [
+    "--lua-desync=fake:blob=fake_default_http:tcp_md5",
+    "--lua-desync=multisplit:pos=method+2",
+    "--lua-desync=fake:blob=fake_default_tls:tcp_md5",
+    "--lua-desync=multisplit:pos=1,midsld",
+    "--lua-desync=fake:blob=fake_default_quic:repeats=6"
+   ],
+   "targets": [
+    {
+     "host": "instagram.com",
+     "asn": 32934
+    }
+   ],
+   "reports": 1,
+   "users": [
+    "a889e76d30ce"
+   ],
+   "fails": 0,
+   "fail_users": [],
+   "issues": [
+    57
+   ],
+   "first": "2026-11-12",
+   "last": "2026-11-12",
+   "nfqws2": "",
+   "by": "a889e76d30ce"
+  },
   {
    "id": "cf88516fcd18",
    "asn": 8359,

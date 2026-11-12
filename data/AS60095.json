@@ -1,7 +1,7 @@
 {
  "asn": 60095,
  "provider": "NN-AS JSC",
- "updated": "2026-11-07T23:05:11Z",
+ "updated": "2026-11-12T23:05:16Z",
  "items": [
   {
    "id": "4345f068ba4f",
@@ -13,6 +13,10 @@
     "--lua-desync=fakedsplit:pos=1:tcp_md5"
    ],
    "targets": [
+    {
+     "host": "googlevideo.com",
+     "asn": 15169
+    },
     {
      "asn": 13335
     },
@@ -31,7 +35,7 @@
     11
    ],
    "first": "2026-10-18",
-   "last": "2026-11-07",
+   "last": "2026-11-12",
    "nfqws2": "1.3.3"
   }
  ]

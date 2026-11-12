@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-12T19:52:58Z",
+ "updated": "2026-11-12T23:05:16Z",
  "total": 29,
  "providers": [
   {
@@ -85,7 +85,7 @@
    "provider": "NN-AS JSC",
    "count": 1,
    "reports": 2,
-   "updated": "2026-11-07T23:05:11Z"
+   "updated": "2026-11-12T23:05:16Z"
   },
   {
    "asn": 31370,

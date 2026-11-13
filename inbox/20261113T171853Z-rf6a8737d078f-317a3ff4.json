@@ -1,0 +1,1 @@
+{"t":"2026-11-13T17:18:53Z","who":"rf6a8737d078f","ip":"406721277db9","name":"3u63n3","items":[{"kind":"share","asn":47954,"provider":"AlfaNetTelecom-AS Alpha Net Telecom Ltd","proto":"tls","steps":["--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"],"net":20473,"host":"","nfqws2":"1.3.3","ui":"1.33.6"}]}

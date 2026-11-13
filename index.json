@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-13T00:43:41Z",
+ "updated": "2026-11-13T01:05:12Z",
  "total": 30,
  "providers": [
   {
@@ -15,7 +15,7 @@
    "provider": "INFOLINK-T-AS Information and Communication Technologies LLC",
    "count": 3,
    "reports": 9,
-   "updated": "2026-11-11T01:05:14Z"
+   "updated": "2026-11-13T01:05:12Z"
   },
   {
    "asn": 8402,
@@ -64,7 +64,7 @@
    "provider": "CLOUDFLARENET - Cloudflare, Inc.",
    "count": 1,
    "reports": 3,
-   "updated": "2026-11-12T01:05:14Z"
+   "updated": "2026-11-13T01:05:12Z"
   },
   {
    "asn": 35816,

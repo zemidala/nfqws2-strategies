@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-12T23:05:16Z",
+ "updated": "2026-11-13T00:05:13Z",
  "total": 29,
  "providers": [
   {
@@ -8,7 +8,7 @@
    "provider": "ROSTELECOM-AS PJSC Rostelecom",
    "count": 3,
    "reports": 18,
-   "updated": "2026-11-12T00:05:17Z"
+   "updated": "2026-11-13T00:05:13Z"
   },
   {
    "asn": 35539,

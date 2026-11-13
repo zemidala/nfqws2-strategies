@@ -1,7 +1,7 @@
 {
  "asn": 8359,
  "provider": "",
- "updated": "2026-11-13T00:41:56Z",
+ "updated": "2026-11-13T00:42:07Z",
  "items": [
   {
    "id": "cf88516fcd18",
@@ -67,6 +67,33 @@
    "proto": "tls",
    "steps": [
     "--lua-desync=hostfakesplit:host=google.com:tcp_md5:tcp_ts_up"
+   ],
+   "targets": [
+    {
+     "asn": 13335
+    }
+   ],
+   "reports": 1,
+   "users": [
+    "rb5d68bf27768"
+   ],
+   "fails": 0,
+   "fail_users": [],
+   "issues": [],
+   "first": "2026-11-13",
+   "last": "2026-11-13",
+   "nfqws2": "1.3.3",
+   "by": "rb5d68bf27768",
+   "author": "mishneg"
+  },
+  {
+   "id": "0db2034784d9",
+   "asn": 8359,
+   "provider": "MTS MTS PJSC",
+   "proto": "tls",
+   "steps": [
+    "--lua-desync=hostfakesplit:host=ozon.ru:midhost=host-2:seqovl=sniext+3:seqovl_pattern=tls_clienthello:badsum:tcp_md5:tcp_ts_up",
+    "--lua-desync=hostfakesplit:tcp_md5:tcp_ts_up"
    ],
    "targets": [
     {

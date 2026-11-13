@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updated": "2026-11-13T00:05:13Z",
- "total": 29,
+ "updated": "2026-11-13T00:13:32Z",
+ "total": 30,
  "providers": [
   {
    "asn": 12389,
@@ -32,18 +32,18 @@
    "updated": "2026-11-06T01:06:24Z"
   },
   {
+   "asn": 8359,
+   "provider": "MTS MTS PJSC",
+   "count": 5,
+   "reports": 5,
+   "updated": "2026-11-13T00:13:32Z"
+  },
+  {
    "asn": 60840,
    "provider": "TELECOMSERVICEVRN OJSC Telecom-Service",
    "count": 2,
    "reports": 5,
    "updated": "2026-11-12T01:05:14Z"
-  },
-  {
-   "asn": 8359,
-   "provider": "MTS MTS PJSC",
-   "count": 4,
-   "reports": 4,
-   "updated": "2026-11-12T09:57:35Z"
   },
   {
    "asn": 51973,

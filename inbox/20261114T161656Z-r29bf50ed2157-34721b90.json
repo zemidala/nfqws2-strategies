@@ -1,0 +1,1 @@
+{"t":"2026-11-14T16:16:56Z","who":"r29bf50ed2157","ip":"9dbb9702ff72","name":"","items":[{"kind":"share","asn":44265,"provider":"SMOLTELECOM-NET OOO Smoltelecom","proto":"tls","steps":["--lua-desync=fake:blob=fake_default_tls:tcp_seq=-3000","--lua-desync=multisplit:pos=1,midsld"],"net":15169,"host":"www.youtube.com","nfqws2":"1.3.3","ui":"1.33.6"}]}

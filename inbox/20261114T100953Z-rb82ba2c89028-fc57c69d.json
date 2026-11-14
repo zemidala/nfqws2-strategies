@@ -1,1 +1,0 @@
-{"t":"2026-11-14T10:09:53Z","who":"rb82ba2c89028","ip":"626bd6d3e350","name":"Открывает всё","items":[{"kind":"share","asn":8402,"provider":"CORBINA-AS PJSC ","proto":"tls","steps":["--lua-desync=hostfakesplit:tcp_ts_up:tcp_ts=-600000:tcp_md5:repeats=6:host=ya.ru"],"net":13335,"host":"x.com","nfqws2":"1.3.3","ui":"1.33.6"}]}

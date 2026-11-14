@@ -172,3 +172,4 @@
 {"asn": 35539, "id": "b39cabe12bf1", "ip": "2c0a36fd205a", "kind": "fails", "result": "failed", "t": "2026-11-14T16:01:45Z", "who": "rbf742adaf1e5"}
 {"asn": 44265, "id": "b5777f6287b7", "ip": "9dbb9702ff72", "kind": "share", "result": "pending", "t": "2026-11-14T16:16:56Z", "who": "r29bf50ed2157"}
 {"asn": 48416, "id": "1c80d4e92c8f", "ip": "106ef177edd4", "kind": "share", "result": "pending", "t": "2026-11-14T19:47:22Z", "who": "r2dbb6f083a17"}
+{"asn": 3216, "id": "b8f82807b212", "ip": "25ade0aa11ac", "kind": "share", "result": "same", "t": "2026-11-14T21:38:02Z", "who": "r1ea96ccf6f07"}

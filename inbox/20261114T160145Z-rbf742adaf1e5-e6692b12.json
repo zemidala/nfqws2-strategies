@@ -1,0 +1,1 @@
+{"t":"2026-11-14T16:01:45Z","who":"rbf742adaf1e5","ip":"2c0a36fd205a","name":"","items":[{"kind":"fails","asn":35539,"provider":"INFOLINK-T-AS Information and Communication Technologies LLC","proto":"tls","steps":["--lua-desync=multisplit:pos=1:seqovl=1:seqovl_pattern=tls_clienthello"],"net":15169,"host":"googlevideo.com","nfqws2":"1.3.3","ui":"1.33.6"}]}

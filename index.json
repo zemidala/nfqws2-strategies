@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-13T21:40:35Z",
+ "updated": "2026-11-14T01:05:20Z",
  "total": 30,
  "providers": [
   {
@@ -22,14 +22,14 @@
    "provider": "INFOLINK-T-AS Information and Communication Technologies LLC",
    "count": 3,
    "reports": 9,
-   "updated": "2026-11-13T01:05:12Z"
+   "updated": "2026-11-14T01:05:20Z"
   },
   {
    "asn": 8359,
    "provider": "MTS MTS PJSC",
    "count": 5,
-   "reports": 6,
-   "updated": "2026-11-13T20:19:10Z"
+   "reports": 7,
+   "updated": "2026-11-14T01:05:20Z"
   },
   {
    "asn": 16345,
@@ -64,7 +64,7 @@
    "provider": "CLOUDFLARENET - Cloudflare, Inc.",
    "count": 1,
    "reports": 3,
-   "updated": "2026-11-13T01:05:12Z"
+   "updated": "2026-11-14T01:05:20Z"
   },
   {
    "asn": 35816,

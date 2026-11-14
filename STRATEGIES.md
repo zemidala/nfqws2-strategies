@@ -1,20 +1,20 @@
 # Strategies by provider / Стратегии по провайдерам
 
-Strategies: 30 · providers: 15 · updated 2026-11-13 21:40 UTC. Find your provider (AS number) and open its page. Generated after every submission — do not edit by hand.
+Strategies: 30 · providers: 15 · updated 2026-11-14 01:05 UTC. Find your provider (AS number) and open its page. Generated after every submission — do not edit by hand.
 
-Стратегий: 30, провайдеров: 15, обновлено 2026-11-13 21:40 UTC. Найдите своего провайдера (номер AS) и откройте его страницу — эти стратегии nfqws2-ui проверяет при подборе первыми. Номер AS вашего провайдера показан в nfqws2-ui: «Проверка сайта → Стратегии сообщества». Файл собирается сам после каждой заявки.
+Стратегий: 30, провайдеров: 15, обновлено 2026-11-14 01:05 UTC. Найдите своего провайдера (номер AS) и откройте его страницу — эти стратегии nfqws2-ui проверяет при подборе первыми. Номер AS вашего провайдера показан в nfqws2-ui: «Проверка сайта → Стратегии сообщества». Файл собирается сам после каждой заявки.
 
 | AS | Provider / Провайдер | Strategies / Стратегий | Confirmed / Подтверждений | Updated / Обновлено |
 |---|---|---|---|---|
 | [AS12389](providers/AS12389.md) | ROSTELECOM-AS PJSC Rostelecom | 3 | 19 | 2026-11-13 |
 | [AS8402](providers/AS8402.md) | CORBINA-AS PJSC | 2 | 11 | 2026-11-13 |
-| [AS35539](providers/AS35539.md) | INFOLINK-T-AS Information and Communication Technologies LLC | 3 | 9 | 2026-11-13 |
-| [AS8359](providers/AS8359.md) | MTS MTS PJSC | 5 | 6 | 2026-11-13 |
+| [AS35539](providers/AS35539.md) | INFOLINK-T-AS Information and Communication Technologies LLC | 3 | 9 | 2026-11-14 |
+| [AS8359](providers/AS8359.md) | MTS MTS PJSC | 5 | 7 | 2026-11-14 |
 | [AS16345](providers/AS16345.md) | BEE-AS PJSC | 3 | 6 | 2026-11-06 |
 | [AS60840](providers/AS60840.md) | TELECOMSERVICEVRN OJSC Telecom-Service | 2 | 5 | 2026-11-12 |
 | [AS51973](providers/AS51973.md) | KOLT-AS Koltushsky Internet Ltd | 3 | 3 | 2026-11-01 |
 | [AS25513](providers/AS25513.md) | ASN-MGTS-USPD PJSC Moscow city telephone network | 2 | 3 | 2026-11-06 |
-| [AS13335](providers/AS13335.md) | CLOUDFLARENET - Cloudflare, Inc. | 1 | 3 | 2026-11-13 |
+| [AS13335](providers/AS13335.md) | CLOUDFLARENET - Cloudflare, Inc. | 1 | 3 | 2026-11-14 |
 | [AS35816](providers/AS35816.md) | SEVSTAR Lancom Ltd. | 1 | 3 | 2026-11-12 |
 | [AS51570](providers/AS51570.md) | SPB-AS JSC | 1 | 3 | 2026-11-09 |
 | [AS60095](providers/AS60095.md) | NN-AS JSC | 1 | 2 | 2026-11-12 |

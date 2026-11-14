@@ -1,7 +1,7 @@
 {
  "asn": 13335,
  "provider": "CLOUDFLARENET - Cloudflare, Inc.",
- "updated": "2026-11-13T01:05:12Z",
+ "updated": "2026-11-14T01:05:20Z",
  "items": [
   {
    "id": "1ec08f6ef05d",
@@ -12,6 +12,10 @@
     "--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"
    ],
    "targets": [
+    {
+     "host": "x.com",
+     "asn": 54113
+    },
     {
      "host": "googlevideo.com",
      "asn": 15169
@@ -44,7 +48,7 @@
     6
    ],
    "first": "2026-10-11",
-   "last": "2026-11-13",
+   "last": "2026-11-14",
    "nfqws2": "1.3.3"
   }
  ]

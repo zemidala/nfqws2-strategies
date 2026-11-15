@@ -1,7 +1,7 @@
 {
  "asn": 8359,
  "provider": "MTS MTS PJSC",
- "updated": "2026-11-15T01:05:26Z",
+ "updated": "2026-11-15T04:05:18Z",
  "items": [
   {
    "id": "cf88516fcd18",
@@ -12,6 +12,10 @@
     "--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"
    ],
    "targets": [
+    {
+     "host": "youtube.com",
+     "asn": 15169
+    },
     {
      "host": "facebook.com",
      "asn": 32934
@@ -25,11 +29,12 @@
      "asn": 32934
     }
    ],
-   "reports": 3,
+   "reports": 4,
    "users": [
     "a889e76d30ce",
     "rb5d68bf27768",
-    "r2893a5fbb82b"
+    "r2893a5fbb82b",
+    "r32029dd7db2e"
    ],
    "fails": 0,
    "fail_users": [],

@@ -1,7 +1,7 @@
 {
  "asn": 210171,
  "provider": "",
- "updated": "2026-11-15T14:30:48Z",
+ "updated": "2026-11-15T14:31:02Z",
  "items": [
   {
    "id": "4b5055321031",
@@ -12,6 +12,12 @@
     "--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"
    ],
    "targets": [
+    {
+     "asn": 213230
+    },
+    {
+     "asn": 24940
+    },
     {
      "asn": 20473
     }

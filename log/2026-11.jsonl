@@ -174,3 +174,14 @@
 {"asn": 48416, "id": "1c80d4e92c8f", "ip": "106ef177edd4", "kind": "share", "result": "pending", "t": "2026-11-14T19:47:22Z", "who": "r2dbb6f083a17"}
 {"asn": 3216, "id": "b8f82807b212", "ip": "25ade0aa11ac", "kind": "share", "result": "same", "t": "2026-11-14T21:38:02Z", "who": "r1ea96ccf6f07"}
 {"asn": 12389, "id": "7f89114d1bd0", "ip": "240d1682a3ab", "kind": "works", "result": "confirmed", "t": "2026-11-15T00:05:06Z", "who": "r97d93db94706"}
+{"asn": 8402, "id": "0adf38777f40", "ip": "e4aa9eb7f936", "kind": "works", "result": "confirmed", "t": "2026-11-15T01:05:03Z", "who": "r4f29dcfb4e7d"}
+{"asn": 8402, "id": "0adf38777f40", "ip": "e4aa9eb7f936", "kind": "works", "result": "same", "t": "2026-11-15T01:05:03Z", "who": "r4f29dcfb4e7d"}
+{"asn": 8402, "id": "0adf38777f40", "ip": "e4aa9eb7f936", "kind": "works", "result": "same", "t": "2026-11-15T01:05:03Z", "who": "r4f29dcfb4e7d"}
+{"asn": 12389, "id": "7f89114d1bd0", "ip": "1c4550a3c1e4", "kind": "works", "result": "confirmed", "t": "2026-11-15T01:05:06Z", "who": "r2c10a32723ca"}
+{"asn": 12389, "id": "33caed1df205", "ip": "1c4550a3c1e4", "kind": "works", "result": "confirmed", "t": "2026-11-15T01:05:06Z", "who": "r2c10a32723ca"}
+{"asn": 12389, "id": "629237a97c07", "ip": "1c4550a3c1e4", "kind": "works", "result": "confirmed", "t": "2026-11-15T01:05:06Z", "who": "r2c10a32723ca"}
+{"asn": 12389, "id": "629237a97c07", "ip": "1c4550a3c1e4", "kind": "works", "result": "confirmed", "t": "2026-11-15T01:05:06Z", "who": "r2c10a32723ca"}
+{"asn": 8402, "id": "564b5223a232", "ip": "a399dd9874ac", "kind": "works", "result": "confirmed", "t": "2026-11-15T01:05:08Z", "who": "r5fbe2cba3318"}
+{"asn": 8402, "id": "0adf38777f40", "ip": "a399dd9874ac", "kind": "works", "result": "same", "t": "2026-11-15T01:05:08Z", "who": "r5fbe2cba3318"}
+{"asn": 35539, "id": "17524fff1fa0", "ip": "2c0a36fd205a", "kind": "works", "result": "confirmed", "t": "2026-11-15T01:05:09Z", "who": "rbf742adaf1e5"}
+{"asn": 35539, "id": "e961b16d754f", "ip": "2c0a36fd205a", "kind": "works", "result": "confirmed", "t": "2026-11-15T01:05:09Z", "who": "rbf742adaf1e5"}

@@ -1,28 +1,28 @@
 {
  "version": 2,
- "updated": "2026-11-15T00:05:21Z",
+ "updated": "2026-11-15T01:05:12Z",
  "total": 30,
  "providers": [
   {
    "asn": 12389,
    "provider": "ROSTELECOM-AS PJSC Rostelecom",
    "count": 3,
-   "reports": 19,
-   "updated": "2026-11-15T00:05:21Z"
+   "reports": 22,
+   "updated": "2026-11-15T01:05:12Z"
   },
   {
    "asn": 8402,
    "provider": "CORBINA-AS PJSC",
    "count": 2,
-   "reports": 11,
-   "updated": "2026-11-14T01:06:04Z"
+   "reports": 12,
+   "updated": "2026-11-15T01:05:12Z"
   },
   {
    "asn": 35539,
    "provider": "INFOLINK-T-AS Information and Communication Technologies LLC",
    "count": 3,
-   "reports": 9,
-   "updated": "2026-11-14T16:01:59Z"
+   "reports": 11,
+   "updated": "2026-11-15T01:05:12Z"
   },
   {
    "asn": 8359,

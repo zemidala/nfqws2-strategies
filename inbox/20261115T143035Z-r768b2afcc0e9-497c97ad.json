@@ -1,0 +1,1 @@
+{"t":"2026-11-15T14:30:35Z","who":"r768b2afcc0e9","ip":"791dad0c920c","name":"","items":[{"kind":"share","asn":210171,"provider":"AVP-Technology-AS LLC ","proto":"tls","steps":["--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"],"net":20473,"host":"","nfqws2":"1.3.3","ui":"1.33.6"}]}

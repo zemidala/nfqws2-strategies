@@ -1,7 +1,7 @@
 {
  "asn": 8402,
  "provider": "CORBINA-AS PJSC",
- "updated": "2026-11-15T01:05:12Z",
+ "updated": "2026-11-15T01:05:38Z",
  "items": [
   {
    "id": "0adf38777f40",
@@ -12,6 +12,13 @@
     "--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"
    ],
    "targets": [
+    {
+     "asn": 62371
+    },
+    {
+     "host": "discord.com",
+     "asn": 13335
+    },
     {
      "asn": 13335
     },
@@ -67,6 +74,17 @@
     "--lua-desync=multidisorder:pos=1,sniext+1,host+1,midsld-2,midsld,midsld+2,endhost-1"
    ],
    "targets": [
+    {
+     "asn": 62371
+    },
+    {
+     "host": "rr3---sn-8ph2xajvh-3ggl.googlevideo.com",
+     "asn": 3216
+    },
+    {
+     "host": "rr1---sn-8ph2xajvh-3ggs.googlevideo.com",
+     "asn": 3216
+    },
     {
      "host": "googlevideo.com",
      "asn": 15169

@@ -217,3 +217,9 @@
 {"asn": 12389, "id": "7f89114d1bd0", "ip": "9ecf023cb342", "kind": "works", "result": "same", "t": "2026-11-15T23:05:15Z", "who": "r40e35284a92d"}
 {"asn": 12389, "id": "33caed1df205", "ip": "9ecf023cb342", "kind": "works", "result": "same", "t": "2026-11-15T23:05:15Z", "who": "r40e35284a92d"}
 {"asn": 12389, "id": "629237a97c07", "ip": "9ecf023cb342", "kind": "works", "result": "same", "t": "2026-11-15T23:05:15Z", "who": "r40e35284a92d"}
+{"asn": 13335, "id": "1ec08f6ef05d", "ip": "194492775b59", "kind": "works", "result": "confirmed", "t": "2026-11-16T01:05:08Z", "who": "r2fee48da6686"}
+{"asn": 13335, "id": "1ec08f6ef05d", "ip": "194492775b59", "kind": "works", "result": "same", "t": "2026-11-16T01:05:08Z", "who": "r2fee48da6686"}
+{"asn": 8359, "id": "cf88516fcd18", "ip": "7889e3d36b39", "kind": "works", "result": "confirmed", "t": "2026-11-16T01:05:15Z", "who": "r2893a5fbb82b"}
+{"asn": 8359, "id": "cf88516fcd18", "ip": "7889e3d36b39", "kind": "works", "result": "same", "t": "2026-11-16T01:05:15Z", "who": "r2893a5fbb82b"}
+{"asn": 8359, "id": "cf88516fcd18", "ip": "7889e3d36b39", "kind": "works", "result": "same", "t": "2026-11-16T01:05:15Z", "who": "r2893a5fbb82b"}
+{"asn": 8359, "id": "cf88516fcd18", "ip": "7889e3d36b39", "kind": "works", "result": "same", "t": "2026-11-16T01:05:15Z", "who": "r2893a5fbb82b"}

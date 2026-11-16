@@ -1,0 +1,1 @@
+{"t":"2026-11-16T01:05:24Z","who":"r6d25e67c21ba","ip":"9eda631878d1","name":"","items":[{"kind":"works","asn":16345,"provider":"BEE-AS PJSC ","proto":"tls","steps":["--lua-desync=fake:blob=tls_clienthello:repeats=6:tcp_md5","--lua-desync=fakedsplit:pos=1:tcp_md5"],"net":13335,"host":"rutracker.org","nfqws2":"1.3.3","ui":"1.33.6"}]}

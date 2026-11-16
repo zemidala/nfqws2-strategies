@@ -11,7 +11,7 @@ Strategies: 30 · providers: 15 · updated 2026-11-16 01:05 UTC. Find your provi
 | [AS8402](providers/AS8402.md) | CORBINA-AS PJSC | 2 | 12 | 2026-11-15 |
 | [AS8359](providers/AS8359.md) | MTS MTS PJSC | 5 | 8 | 2026-11-16 |
 | [AS16345](providers/AS16345.md) | BEE-AS PJSC | 3 | 6 | 2026-11-06 |
-| [AS60840](providers/AS60840.md) | TELECOMSERVICEVRN OJSC Telecom-Service | 2 | 5 | 2026-11-12 |
+| [AS60840](providers/AS60840.md) | TELECOMSERVICEVRN OJSC Telecom-Service | 2 | 6 | 2026-11-16 |
 | [AS51973](providers/AS51973.md) | KOLT-AS Koltushsky Internet Ltd | 3 | 3 | 2026-11-01 |
 | [AS25513](providers/AS25513.md) | ASN-MGTS-USPD PJSC Moscow city telephone network | 2 | 3 | 2026-11-06 |
 | [AS13335](providers/AS13335.md) | CLOUDFLARENET - Cloudflare, Inc. | 1 | 3 | 2026-11-16 |

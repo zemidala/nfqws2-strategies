@@ -1,0 +1,1 @@
+{"t":"2026-11-17T18:55:27Z","who":"r5ba8c1868ca1","ip":"9c09f7bfe000","name":"KoT","items":[{"kind":"share","asn":16345,"provider":"BEE-AS PJSC ","proto":"tls","steps":["--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ad.adriver.ru"],"net":15169,"host":"youtube.com","nfqws2":"1.3.3","ui":"1.33.6"}]}

@@ -1,7 +1,7 @@
 {
  "asn": 16345,
  "provider": "",
- "updated": "2026-11-17T18:55:37Z",
+ "updated": "2026-11-17T20:12:49Z",
  "items": [
   {
    "id": "c21f75d3c673",
@@ -12,6 +12,10 @@
     "--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ad.adriver.ru"
    ],
    "targets": [
+    {
+     "host": "nnmclub.to",
+     "asn": 13335
+    },
     {
      "host": "youtube.com",
      "asn": 15169

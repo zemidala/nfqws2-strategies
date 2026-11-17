@@ -1,0 +1,33 @@
+{
+ "asn": 49821,
+ "provider": "",
+ "updated": "2026-11-17T00:33:16Z",
+ "items": [
+  {
+   "id": "4622d2500667",
+   "asn": 49821,
+   "provider": "BAZA-AS BAZA.NET LLC",
+   "proto": "tls",
+   "steps": [
+    "--lua-desync=multidisorder:pos=1,midsld"
+   ],
+   "targets": [
+    {
+     "host": "youtube.com",
+     "asn": 15169
+    }
+   ],
+   "reports": 1,
+   "users": [
+    "r10964a116e2a"
+   ],
+   "fails": 0,
+   "fail_users": [],
+   "issues": [],
+   "first": "2026-11-17",
+   "last": "2026-11-17",
+   "nfqws2": "1.3.3",
+   "by": "r10964a116e2a"
+  }
+ ]
+}

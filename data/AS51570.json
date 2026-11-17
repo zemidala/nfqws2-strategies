@@ -1,7 +1,7 @@
 {
  "asn": 51570,
  "provider": "SPB-AS JSC",
- "updated": "2026-11-09T01:05:36Z",
+ "updated": "2026-11-17T01:05:16Z",
  "items": [
   {
    "id": "1c515c0165d9",
@@ -13,6 +13,9 @@
     "--lua-desync=multisplit:pos=sniext+4"
    ],
    "targets": [
+    {
+     "asn": 50132
+    },
     {
      "host": "youtube.com",
      "asn": 15169
@@ -30,7 +33,7 @@
     9
    ],
    "first": "2026-10-12",
-   "last": "2026-11-09",
+   "last": "2026-11-17",
    "nfqws2": "1.3.3"
   }
  ]

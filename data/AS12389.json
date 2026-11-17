@@ -1,7 +1,7 @@
 {
  "asn": 12389,
  "provider": "ROSTELECOM-AS PJSC Rostelecom",
- "updated": "2026-11-17T12:13:47Z",
+ "updated": "2026-11-17T23:05:36Z",
  "items": [
   {
    "id": "7f89114d1bd0",
@@ -160,7 +160,7 @@
     5
    ],
    "first": "2026-10-08",
-   "last": "2026-11-15",
+   "last": "2026-11-17",
    "nfqws2": "1.3.3",
    "last_fail": "2026-11-13"
   },

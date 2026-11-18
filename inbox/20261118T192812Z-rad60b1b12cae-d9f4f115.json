@@ -1,0 +1,1 @@
+{"t":"2026-11-18T19:28:12Z","who":"rad60b1b12cae","ip":"78e1ab581316","name":"ts","items":[{"kind":"share","asn":42065,"provider":"ETELECOM-AS Global Network Management Inc","proto":"tls","steps":["--lua-desync=hostfakesplit:nofake2:midhost=midsld:ip_autottl=-4,3-20"],"net":15169,"host":"youtube.com","nfqws2":"1.3.3","ui":"1.33.6"}]}

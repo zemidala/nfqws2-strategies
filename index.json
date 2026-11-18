@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-18T01:05:24Z",
+ "updated": "2026-11-18T01:05:36Z",
  "total": 30,
  "providers": [
   {
@@ -43,7 +43,7 @@
    "provider": "TELECOMSERVICEVRN OJSC Telecom-Service",
    "count": 2,
    "reports": 6,
-   "updated": "2026-11-16T01:05:52Z"
+   "updated": "2026-11-18T01:05:36Z"
   },
   {
    "asn": 51973,

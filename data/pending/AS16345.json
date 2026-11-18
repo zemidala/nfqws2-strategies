@@ -1,7 +1,7 @@
 {
  "asn": 16345,
  "provider": "",
- "updated": "2026-11-18T08:44:13Z",
+ "updated": "2026-11-18T08:51:13Z",
  "items": [
   {
    "id": "c21f75d3c673",
@@ -29,7 +29,7 @@
    "fail_users": [],
    "issues": [],
    "first": "2026-11-17",
-   "last": "2026-11-17",
+   "last": "2026-11-18",
    "nfqws2": "1.3.3",
    "by": "r5ba8c1868ca1",
    "author": "KoT"

@@ -1,0 +1,1 @@
+{"t":"2026-11-18T12:05:42Z","who":"r07e3c1383c13","ip":"e95cbc7b2c05","name":"","items":[{"kind":"share","asn":196705,"provider":"Ardinvest Ardinvest LTD","proto":"tls","steps":["--lua-desync=fake:blob=fake_default_tls:tcp_seq=-3000"],"net":13335,"host":"rutor.info","nfqws2":"1.3.3","ui":"1.33.7"}]}

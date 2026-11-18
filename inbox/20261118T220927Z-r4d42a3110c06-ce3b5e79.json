@@ -1,0 +1,1 @@
+{"t":"2026-11-18T22:09:27Z","who":"r4d42a3110c06","ip":"047d04985e92","name":"","items":[{"kind":"share","asn":39087,"provider":"PAKT-AS P.A.K.T LLC","proto":"tls","steps":["--lua-desync=fake:blob=fake_default_tls:tcp_md5","--lua-desync=multisplit:pos=midsld"],"net":15169,"host":"youtube.com","nfqws2":"1.3.3","ui":"1.34.2"}]}

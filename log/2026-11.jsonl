@@ -282,3 +282,12 @@
 {"asn": 3216, "id": "8d221b855682", "ip": "789a492bd037", "kind": "share", "result": "pending", "t": "2026-11-18T20:31:07Z", "who": "rabe45ffc7ff9"}
 {"asn": 12389, "id": "7f89114d1bd0", "ip": "58b4b77da7f5", "kind": "works", "result": "confirmed", "t": "2026-11-18T22:05:11Z", "who": "rb6cdf4c685b0"}
 {"asn": 39087, "id": "1f88c8e254ff", "ip": "047d04985e92", "kind": "share", "result": "pending", "t": "2026-11-18T22:09:27Z", "who": "r4d42a3110c06"}
+{"asn": 12389, "id": "7f89114d1bd0", "ip": "3b2fde5e7258", "kind": "works", "result": "same", "t": "2026-11-18T23:05:34Z", "who": "r40e35284a92d"}
+{"asn": 12389, "id": "33caed1df205", "ip": "3b2fde5e7258", "kind": "works", "result": "confirmed", "t": "2026-11-18T23:05:34Z", "who": "r40e35284a92d"}
+{"asn": 12389, "id": "629237a97c07", "ip": "3b2fde5e7258", "kind": "works", "result": "confirmed", "t": "2026-11-18T23:05:34Z", "who": "r40e35284a92d"}
+{"asn": 12389, "id": "7f89114d1bd0", "ip": "3b2fde5e7258", "kind": "works", "result": "same", "t": "2026-11-18T23:05:34Z", "who": "r40e35284a92d"}
+{"asn": 12389, "id": "33caed1df205", "ip": "3b2fde5e7258", "kind": "works", "result": "same", "t": "2026-11-18T23:05:34Z", "who": "r40e35284a92d"}
+{"asn": 12389, "id": "629237a97c07", "ip": "3b2fde5e7258", "kind": "works", "result": "same", "t": "2026-11-18T23:05:34Z", "who": "r40e35284a92d"}
+{"asn": 12389, "id": "7f89114d1bd0", "ip": "3b2fde5e7258", "kind": "works", "result": "same", "t": "2026-11-18T23:05:34Z", "who": "r40e35284a92d"}
+{"asn": 12389, "id": "33caed1df205", "ip": "3b2fde5e7258", "kind": "works", "result": "same", "t": "2026-11-18T23:05:34Z", "who": "r40e35284a92d"}
+{"asn": 12389, "id": "629237a97c07", "ip": "3b2fde5e7258", "kind": "works", "result": "same", "t": "2026-11-18T23:05:34Z", "who": "r40e35284a92d"}

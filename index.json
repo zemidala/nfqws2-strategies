@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-18T01:05:47Z",
+ "updated": "2026-11-18T04:05:24Z",
  "total": 30,
  "providers": [
   {
@@ -14,8 +14,8 @@
    "asn": 8359,
    "provider": "MTS MTS PJSC",
    "count": 5,
-   "reports": 12,
-   "updated": "2026-11-18T01:05:47Z"
+   "reports": 16,
+   "updated": "2026-11-18T04:05:24Z"
   },
   {
    "asn": 35539,

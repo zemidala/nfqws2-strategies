@@ -1,1 +1,0 @@
-{"t":"2026-11-18T20:31:07Z","who":"rabe45ffc7ff9","ip":"789a492bd037","name":"","items":[{"kind":"share","asn":3216,"provider":"SOVAM-AS PJSC ","proto":"tls","steps":["--lua-desync=hostfakesplit:host=google.com:tcp_md5:tcp_ts_up"],"net":133618,"host":"","nfqws2":"1.3.3","ui":"1.34.2"}]}

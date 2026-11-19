@@ -312,3 +312,4 @@
 {"asn": 8402, "id": "0adf38777f40", "ip": "e228856b4491", "kind": "works", "result": "confirmed", "t": "2026-11-19T01:05:15Z", "who": "r5957b0aa5bd4"}
 {"asn": 35816, "id": "89751da01752", "ip": "1288f355c9de", "kind": "works", "result": "confirmed", "t": "2026-11-19T01:05:23Z", "who": "r947b28d8f63c"}
 {"asn": 35816, "id": "89751da01752", "ip": "1288f355c9de", "kind": "works", "result": "confirmed", "t": "2026-11-19T01:05:23Z", "who": "r947b28d8f63c"}
+{"asn": 48416, "id": "b6e4ced883e3", "ip": "106ef177edd4", "kind": "share", "result": "pending", "t": "2026-11-19T06:27:50Z", "who": "r2dbb6f083a17"}

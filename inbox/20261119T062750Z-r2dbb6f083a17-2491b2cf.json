@@ -1,1 +1,0 @@
-{"t":"2026-11-19T06:27:50Z","who":"r2dbb6f083a17","ip":"106ef177edd4","name":"degu","items":[{"kind":"share","asn":48416,"provider":"INFOLAN-AS Information Network, LLC","proto":"tls","steps":["--lua-desync=fake:blob=0x00000000:tcp_ack=-66000:repeats=2","--lua-desync=multisplit:pos=1,midsld"],"net":15169,"host":"youtube.com","nfqws2":"1.3.3","ui":"1.34.2"}]}

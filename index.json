@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-19T01:05:24Z",
+ "updated": "2026-11-19T01:05:43Z",
  "total": 30,
  "providers": [
   {
@@ -46,6 +46,13 @@
    "updated": "2026-11-18T01:05:36Z"
   },
   {
+   "asn": 35816,
+   "provider": "SEVSTAR Lancom Ltd.",
+   "count": 1,
+   "reports": 4,
+   "updated": "2026-11-19T01:05:43Z"
+  },
+  {
    "asn": 51973,
    "provider": "KOLT-AS Koltushsky Internet Ltd",
    "count": 3,
@@ -65,13 +72,6 @@
    "count": 1,
    "reports": 3,
    "updated": "2026-11-16T01:05:19Z"
-  },
-  {
-   "asn": 35816,
-   "provider": "SEVSTAR Lancom Ltd.",
-   "count": 1,
-   "reports": 3,
-   "updated": "2026-11-12T15:21:25Z"
   },
   {
    "asn": 51570,

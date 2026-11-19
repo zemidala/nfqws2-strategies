@@ -1,7 +1,7 @@
 {
  "asn": 12389,
  "provider": "ROSTELECOM-AS PJSC Rostelecom",
- "updated": "2026-11-19T20:29:22Z",
+ "updated": "2026-11-19T23:06:15Z",
  "items": [
   {
    "id": "7f89114d1bd0",
@@ -70,7 +70,7 @@
      "asn": 13335
     }
    ],
-   "reports": 18,
+   "reports": 19,
    "users": [
     "cbf1a33d3e93",
     "391e472ae421",
@@ -89,7 +89,8 @@
     "r202b593ce75e",
     "rd5ba64ad2d5a",
     "rb6cdf4c685b0",
-    "rb2d7c4bb42e5"
+    "rb2d7c4bb42e5",
+    "r0c18b64605cc"
    ],
    "fails": 0,
    "fail_users": [],
@@ -162,14 +163,15 @@
      "asn": 13335
     }
    ],
-   "reports": 6,
+   "reports": 7,
    "users": [
     "cbf1a33d3e93",
     "f5f1c37ebcf1",
     "95c1fd1978bc",
     "r40e35284a92d",
     "r97d93db94706",
-    "r2c10a32723ca"
+    "r2c10a32723ca",
+    "r0c18b64605cc"
    ],
    "fails": 3,
    "fail_users": [
@@ -220,13 +222,14 @@
      "asn": 13335
     }
    ],
-   "reports": 5,
+   "reports": 6,
    "users": [
     "cbf1a33d3e93",
     "r40e35284a92d",
     "r2c10a32723ca",
     "r87cd3ac6e4b5",
-    "r97d93db94706"
+    "r97d93db94706",
+    "r0c18b64605cc"
    ],
    "fails": 2,
    "fail_users": [

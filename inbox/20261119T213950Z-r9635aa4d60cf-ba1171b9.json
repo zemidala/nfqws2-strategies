@@ -1,1 +1,0 @@
-{"t":"2026-11-19T21:39:50Z","who":"r9635aa4d60cf","ip":"35d70ac3a059","name":"","items":[{"kind":"works","asn":8402,"provider":"CORBINA-AS PJSC ","proto":"tls","steps":["--lua-desync=multidisorder:pos=1,sniext+1,host+1,midsld-2,midsld,midsld+2,endhost-1"],"net":15169,"host":"youtube.com","nfqws2":"1.3.3","ui":"1.34.2"}]}

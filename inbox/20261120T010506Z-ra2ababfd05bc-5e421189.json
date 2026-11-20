@@ -1,1 +1,0 @@
-{"t":"2026-11-20T01:05:06Z","who":"ra2ababfd05bc","ip":"fff8f304f34b","name":"Alex154admin","items":[{"kind":"works","asn":12389,"provider":"ROSTELECOM-AS PJSC Rostelecom","proto":"tls","steps":["--lua-desync=hostfakesplit:host=www.google.com:tcp_ts=-600000:tcp_ts_up"],"net":15169,"host":"youtube.com","nfqws2":"1.3.3","ui":"1.34.2"}]}

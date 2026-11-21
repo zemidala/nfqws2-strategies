@@ -1,0 +1,1 @@
+{"t":"2026-11-21T05:41:07Z","who":"r191a98be4eef","ip":"46a9981c20a9","name":"puffffik","items":[{"kind":"share","asn":50923,"provider":"METRO-SET-AS Metroset Ltd.","proto":"tls","steps":["--lua-desync=fake:blob=fake_default_tls:tcp_md5:tls_mod=rnd,dupsid,padencap"],"net":15169,"host":"","nfqws2":"1.3.3","ui":"1.34.2"}]}

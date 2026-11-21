@@ -1,14 +1,14 @@
 {
  "version": 2,
- "updated": "2026-11-20T21:44:59Z",
+ "updated": "2026-11-21T01:05:18Z",
  "total": 30,
  "providers": [
   {
    "asn": 12389,
    "provider": "ROSTELECOM-AS PJSC Rostelecom",
    "count": 3,
-   "reports": 35,
-   "updated": "2026-11-20T14:28:03Z"
+   "reports": 36,
+   "updated": "2026-11-21T01:05:18Z"
   },
   {
    "asn": 8359,
@@ -22,7 +22,7 @@
    "provider": "CORBINA-AS PJSC",
    "count": 2,
    "reports": 14,
-   "updated": "2026-11-19T21:40:01Z"
+   "updated": "2026-11-21T01:05:18Z"
   },
   {
    "asn": 35539,
@@ -42,8 +42,8 @@
    "asn": 60840,
    "provider": "TELECOMSERVICEVRN OJSC Telecom-Service",
    "count": 2,
-   "reports": 6,
-   "updated": "2026-11-18T01:05:36Z"
+   "reports": 7,
+   "updated": "2026-11-21T01:05:18Z"
   },
   {
    "asn": 35816,

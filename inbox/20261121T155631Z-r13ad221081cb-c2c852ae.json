@@ -1,1 +1,0 @@
-{"t":"2026-11-21T15:56:31Z","who":"r13ad221081cb","ip":"50d01b4e0010","name":"Antares","items":[{"kind":"share","asn":8369,"provider":"INTERSVYAZ-AS Intersvyaz-2 JSC","proto":"tls","steps":["--lua-desync=fake:blob=fake_default_tls:tcp_flags_set=SYN","--lua-desync=multidisorder:pos=midsld"],"net":47890,"host":"","nfqws2":"1.3.3","ui":"1.34.2"}]}

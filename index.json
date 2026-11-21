@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-21T03:03:02Z",
+ "updated": "2026-11-21T04:05:17Z",
  "total": 30,
  "providers": [
   {
@@ -46,6 +46,13 @@
    "updated": "2026-11-21T01:05:18Z"
   },
   {
+   "asn": 25513,
+   "provider": "ASN-MGTS-USPD PJSC Moscow city telephone network",
+   "count": 2,
+   "reports": 5,
+   "updated": "2026-11-21T04:05:17Z"
+  },
+  {
    "asn": 35816,
    "provider": "SEVSTAR Lancom Ltd.",
    "count": 1,
@@ -58,13 +65,6 @@
    "count": 3,
    "reports": 3,
    "updated": "2026-11-01T19:00:05Z"
-  },
-  {
-   "asn": 25513,
-   "provider": "ASN-MGTS-USPD PJSC Moscow city telephone network",
-   "count": 2,
-   "reports": 3,
-   "updated": "2026-11-20T01:05:58Z"
   },
   {
    "asn": 13335,

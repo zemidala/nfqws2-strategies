@@ -1,0 +1,1 @@
+{"t":"2026-11-22T14:13:11Z","who":"r7904c80cb9f1","ip":"35ddcd83ffd7","name":"RWTR TTK ZK","items":[{"kind":"share","asn":15774,"provider":"TTK-RTL Limited Liability Company ","proto":"tls","steps":["--lua-desync=fake:blob=fake_default_tls:ip_ttl=8","--lua-desync=multidisorder:pos=1,midsld,1220"],"net":44901,"host":"","nfqws2":"1.3.3","ui":"1.34.2"}]}

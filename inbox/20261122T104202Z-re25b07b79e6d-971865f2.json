@@ -1,1 +1,0 @@
-{"t":"2026-11-22T10:42:02Z","who":"re25b07b79e6d","ip":"3610027d4622","name":"","items":[{"kind":"share","asn":16345,"provider":"BEE-AS PJSC ","proto":"tls","steps":["--lua-desync=fake:blob=fake_default_tls:tcp_ts=-1000","--lua-desync=multisplit:pos=2"],"net":13335,"host":"x.com","nfqws2":"1.3.3","ui":"1.34.2"}]}

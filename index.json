@@ -1,14 +1,14 @@
 {
  "version": 2,
- "updated": "2026-11-22T23:05:55Z",
+ "updated": "2026-11-23T01:05:14Z",
  "total": 30,
  "providers": [
   {
    "asn": 12389,
    "provider": "ROSTELECOM-AS PJSC Rostelecom",
    "count": 3,
-   "reports": 42,
-   "updated": "2026-11-22T23:05:55Z"
+   "reports": 43,
+   "updated": "2026-11-23T01:05:14Z"
   },
   {
    "asn": 8359,
@@ -71,7 +71,7 @@
    "provider": "CLOUDFLARENET - Cloudflare, Inc.",
    "count": 1,
    "reports": 3,
-   "updated": "2026-11-16T01:05:19Z"
+   "updated": "2026-11-23T01:05:14Z"
   },
   {
    "asn": 51570,

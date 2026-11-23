@@ -441,3 +441,4 @@
 {"asn": 25159, "id": "3cece6185c57", "ip": "724796d8733e", "kind": "share", "result": "pending", "t": "2026-11-23T14:01:21Z", "who": "r22a7b9dde224"}
 {"asn": 12389, "id": "7f89114d1bd0", "ip": "6d06c6c88acd", "kind": "works", "result": "confirmed", "t": "2026-11-23T18:05:40Z", "who": "rdad27744aa1c"}
 {"asn": 29124, "id": "025652f11f54", "ip": "1389732e1a50", "kind": "share", "result": "pending", "t": "2026-11-23T19:57:30Z", "who": "rb6d6505c5888"}
+{"asn": 12389, "id": "33caed1df205", "ip": "9dc7f8150e98", "kind": "fails", "result": "failed", "t": "2026-11-23T20:08:39Z", "who": "r4ccef01c49f1"}

@@ -1,7 +1,7 @@
 {
  "asn": 12389,
  "provider": "ROSTELECOM-AS PJSC Rostelecom",
- "updated": "2026-11-23T01:05:14Z",
+ "updated": "2026-11-23T18:05:59Z",
  "items": [
   {
    "id": "7f89114d1bd0",
@@ -13,8 +13,7 @@
    ],
    "targets": [
     {
-     "host": "rr5---sn-gvnuxaxjvh-n8vr.googlevideo.com",
-     "asn": 12389
+     "host": "rr5---sn-gvnuxaxjvh-n8vr.googlevideo.com"
     },
     {
      "host": "x.com",
@@ -78,7 +77,7 @@
      "host": "wide-youtube.l.google.com"
     }
    ],
-   "reports": 26,
+   "reports": 27,
    "users": [
     "cbf1a33d3e93",
     "391e472ae421",
@@ -105,7 +104,8 @@
     "r5888510b95d3",
     "rbd94d8cd43d1",
     "rfcd31f6d6d89",
-    "r1e88a99b63b3"
+    "r1e88a99b63b3",
+    "rdad27744aa1c"
    ],
    "fails": 0,
    "fail_users": [],

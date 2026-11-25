@@ -494,3 +494,4 @@
 {"asn": 25513, "id": "f2deacc6bbe3", "ip": "2f988a24fec1", "kind": "share", "result": "pending", "t": "2026-11-25T14:03:28Z", "who": "rc6b789f6c501"}
 {"asn": 200483, "id": "74621688daf8", "ip": "9dc28228c4c5", "kind": "share", "result": "pending", "t": "2026-11-25T15:30:21Z", "who": "r29185ca036da"}
 {"asn": 35815, "id": "416c338f25b9", "ip": "a8a7a2c6b4ff", "kind": "share", "result": "pending", "t": "2026-11-25T17:41:07Z", "who": "r86d9686b1ee5"}
+{"asn": 12389, "id": "7f89114d1bd0", "ip": "6d06c6c88acd", "kind": "works", "result": "same", "t": "2026-11-25T18:05:10Z", "who": "rdad27744aa1c"}

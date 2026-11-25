@@ -1,0 +1,1 @@
+{"t":"2026-11-25T17:41:07Z","who":"r86d9686b1ee5","ip":"a8a7a2c6b4ff","name":"KDtime","items":[{"kind":"share","asn":35815,"provider":"URALCOMSETI-AS LLC Cifrovie Seti Urala","proto":"tls","steps":["--lua-desync=multisplit:blob=fake_default_tls:ip_ttl=7:pos=2:nodrop","--lua-desync=multisplit:pos=1,midsld"],"net":15169,"host":"youtube.com","nfqws2":"1.3.3","ui":"1.35.1"}]}

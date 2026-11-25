@@ -1,1 +1,0 @@
-{"t":"2026-11-25T13:18:46Z","who":"r22a7b9dde224","ip":"a4a8d71ab4cb","name":"","items":[{"kind":"share","asn":25159,"provider":"SONICDUO-AS PJSC MegaFon","proto":"tls","steps":["--lua-desync=fake:blob=0x00000000:tcp_ts=-1000","--lua-desync=multidisorder:pos=1,midsld"],"net":15169,"host":"youtube.com","nfqws2":"1.3.3","ui":"1.35.1"}]}

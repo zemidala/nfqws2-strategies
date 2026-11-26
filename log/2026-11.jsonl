@@ -522,3 +522,4 @@
 {"asn": 12389, "id": "7f89114d1bd0", "ip": "2d7cb7cfd1f9", "kind": "fails", "result": "failed", "t": "2026-11-26T16:32:41Z", "who": "r4ccef01c49f1"}
 {"asn": 12389, "id": "7f89114d1bd0", "ip": "2d7cb7cfd1f9", "kind": "fails", "result": "same", "t": "2026-11-26T16:33:08Z", "who": "r4ccef01c49f1"}
 {"asn": 12389, "id": "33caed1df205", "ip": "2d7cb7cfd1f9", "kind": "fails", "result": "failed", "t": "2026-11-26T16:34:56Z", "who": "r4ccef01c49f1"}
+{"asn": 12389, "id": "7f89114d1bd0", "ip": "6d06c6c88acd", "kind": "works", "result": "confirmed", "t": "2026-11-26T18:05:13Z", "who": "rdad27744aa1c"}

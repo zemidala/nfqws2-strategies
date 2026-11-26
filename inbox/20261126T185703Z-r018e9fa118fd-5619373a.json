@@ -1,0 +1,1 @@
+{"t":"2026-11-26T18:57:03Z","who":"r018e9fa118fd","ip":"ed685b2d0bc9","name":"","items":[{"kind":"works","asn":12389,"provider":"ROSTELECOM-AS PJSC Rostelecom","proto":"tls","steps":["--lua-desync=hostfakesplit:host=www.google.com:tcp_ts=-600000:tcp_ts_up"],"net":13335,"host":"rutracker.org","nfqws2":"1.3.4","ui":"1.36.1"}]}

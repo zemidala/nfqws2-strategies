@@ -1,7 +1,7 @@
 {
  "asn": 28812,
  "provider": "",
- "updated": "2026-11-26T14:04:58Z",
+ "updated": "2026-11-26T14:12:07Z",
  "items": [
   {
    "id": "a49bc79d1b2e",
@@ -10,6 +10,33 @@
    "proto": "tls",
    "steps": [
     "--lua-desync=fake:blob=fake_default_tls:tcp_ts=-1000:tls_mod=rnd,dupsid,padencap"
+   ],
+   "targets": [
+    {
+     "host": "youtube.com",
+     "asn": 15169
+    }
+   ],
+   "reports": 1,
+   "users": [
+    "r614c889a16b8"
+   ],
+   "fails": 0,
+   "fail_users": [],
+   "issues": [],
+   "first": "2026-11-26",
+   "last": "2026-11-26",
+   "nfqws2": "1.3.4",
+   "by": "r614c889a16b8",
+   "author": "PSYCHODELIK"
+  },
+  {
+   "id": "d4b4d0630dda",
+   "asn": 28812,
+   "provider": "JSCBIS-AS PJSC",
+   "proto": "tls",
+   "steps": [
+    "--lua-desync=multisplit:blob=fake_default_tls:tcp_flags_set=SYN:pos=2:nodrop"
    ],
    "targets": [
     {

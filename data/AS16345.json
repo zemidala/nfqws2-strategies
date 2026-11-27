@@ -1,7 +1,7 @@
 {
  "asn": 16345,
  "provider": "BEE-AS PJSC",
- "updated": "2026-11-18T01:05:24Z",
+ "updated": "2026-11-27T01:05:54Z",
  "items": [
   {
    "id": "518e73d86e9a",
@@ -26,11 +26,12 @@
      "asn": 13335
     }
    ],
-   "reports": 3,
+   "reports": 4,
    "users": [
     "06ab7a006608",
     "rca50e07ee0d4",
-    "r5ba8c1868ca1"
+    "r5ba8c1868ca1",
+    "re25b07b79e6d"
    ],
    "fails": 0,
    "fail_users": [],
@@ -38,8 +39,8 @@
     52
    ],
    "first": "2026-11-03",
-   "last": "2026-11-18",
-   "nfqws2": "1.3.3",
+   "last": "2026-11-27",
+   "nfqws2": "1.3.4",
    "by": "06ab7a006608"
   },
   {
@@ -84,11 +85,12 @@
      "asn": 20473
     }
    ],
-   "reports": 3,
+   "reports": 4,
    "users": [
     "06ab7a006608",
     "rca50e07ee0d4",
-    "r5ba8c1868ca1"
+    "r5ba8c1868ca1",
+    "re25b07b79e6d"
    ],
    "fails": 0,
    "fail_users": [],
@@ -99,8 +101,8 @@
     46
    ],
    "first": "2026-11-03",
-   "last": "2026-11-18",
-   "nfqws2": "1.3.3",
+   "last": "2026-11-27",
+   "nfqws2": "1.3.4",
    "by": "06ab7a006608"
   },
   {
@@ -114,6 +116,10 @@
    ],
    "targets": [
     {
+     "host": "discord.com",
+     "asn": 13335
+    },
+    {
      "host": "nnmclub.to",
      "asn": 13335
     },
@@ -126,11 +132,12 @@
      "asn": 13335
     }
    ],
-   "reports": 3,
+   "reports": 4,
    "users": [
     "06ab7a006608",
     "rca50e07ee0d4",
-    "r5ba8c1868ca1"
+    "r5ba8c1868ca1",
+    "re25b07b79e6d"
    ],
    "fails": 0,
    "fail_users": [],
@@ -138,8 +145,8 @@
     51
    ],
    "first": "2026-11-03",
-   "last": "2026-11-18",
-   "nfqws2": "1.3.3",
+   "last": "2026-11-27",
+   "nfqws2": "1.3.4",
    "by": "06ab7a006608"
   }
  ]

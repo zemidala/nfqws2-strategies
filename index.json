@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-27T01:05:27Z",
+ "updated": "2026-11-27T01:05:54Z",
  "total": 30,
  "providers": [
   {
@@ -25,18 +25,18 @@
    "updated": "2026-11-22T04:05:50Z"
   },
   {
+   "asn": 16345,
+   "provider": "BEE-AS PJSC",
+   "count": 3,
+   "reports": 12,
+   "updated": "2026-11-27T01:05:54Z"
+  },
+  {
    "asn": 35539,
    "provider": "INFOLINK-T-AS Information and Communication Technologies LLC",
    "count": 3,
    "reports": 12,
    "updated": "2026-11-15T15:45:25Z"
-  },
-  {
-   "asn": 16345,
-   "provider": "BEE-AS PJSC",
-   "count": 3,
-   "reports": 9,
-   "updated": "2026-11-18T01:05:24Z"
   },
   {
    "asn": 60840,

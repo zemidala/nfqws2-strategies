@@ -1,1 +1,0 @@
-{"t":"2026-11-27T10:45:54Z","who":"re482d474b3bf","ip":"91b50680e857","name":"","items":[{"kind":"share","asn":50556,"provider":"OOO_KISS OOO KISS","proto":"tls","steps":["--lua-desync=multisplit:blob=fake_default_tls:tcp_seq=-3000:pos=2:nodrop","--lua-desync=multisplit:pos=2"],"net":13335,"host":"rutracker.org","nfqws2":"1.3.4","ui":"1.36.2"}]}

@@ -555,3 +555,4 @@
 {"asn": 12389, "id": "49d741e9692c", "ip": "9377494672d2", "kind": "share", "result": "promoted", "t": "2026-11-27T12:36:11Z", "who": "r0e3be5f78aed"}
 {"asn": 12389, "id": "49d741e9692c", "ip": "9377494672d2", "kind": "share", "result": "confirmed", "t": "2026-11-27T12:36:17Z", "who": "r0e3be5f78aed"}
 {"asn": 12389, "id": "49d741e9692c", "ip": "9377494672d2", "kind": "share", "result": "confirmed", "t": "2026-11-27T12:36:21Z", "who": "r0e3be5f78aed"}
+{"asn": 28812, "id": "534b433ffd42", "ip": "b435c281512c", "kind": "share", "result": "pending", "t": "2026-11-27T16:30:31Z", "who": "r614c889a16b8"}

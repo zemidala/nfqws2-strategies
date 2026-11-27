@@ -6,7 +6,7 @@ Strategies: 30 · providers: 15 · updated 2026-11-27 01:05 UTC. Find your provi
 
 | AS | Provider / Провайдер | Strategies / Стратегий | Confirmed / Подтверждений | Updated / Обновлено |
 |---|---|---|---|---|
-| [AS12389](providers/AS12389.md) | ROSTELECOM-AS PJSC Rostelecom | 3 | 48 | 2026-11-27 |
+| [AS12389](providers/AS12389.md) | ROSTELECOM-AS PJSC Rostelecom | 3 | 49 | 2026-11-27 |
 | [AS8359](providers/AS8359.md) | MTS MTS PJSC | 5 | 23 | 2026-11-26 |
 | [AS8402](providers/AS8402.md) | CORBINA-AS PJSC | 2 | 16 | 2026-11-22 |
 | [AS35539](providers/AS35539.md) | INFOLINK-T-AS Information and Communication Technologies LLC | 3 | 12 | 2026-11-15 |

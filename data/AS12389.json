@@ -1,7 +1,7 @@
 {
  "asn": 12389,
  "provider": "ROSTELECOM-AS PJSC Rostelecom",
- "updated": "2026-11-27T12:36:21Z",
+ "updated": "2026-11-27T12:36:37Z",
  "items": [
   {
    "id": "7f89114d1bd0",
@@ -295,6 +295,9 @@
     "--lua-desync=hostfakesplit:repeats=4:tcp_ts=-600000:tcp_md5:host=ya.ru"
    ],
    "targets": [
+    {
+     "asn": 213230
+    },
     {
      "asn": 24940
     },

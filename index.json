@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-27T18:55:37Z",
+ "updated": "2026-11-28T01:05:13Z",
  "total": 31,
  "providers": [
   {
@@ -8,14 +8,14 @@
    "provider": "ROSTELECOM-AS PJSC Rostelecom",
    "count": 4,
    "reports": 51,
-   "updated": "2026-11-27T12:36:37Z"
+   "updated": "2026-11-28T01:05:13Z"
   },
   {
    "asn": 8359,
    "provider": "MTS MTS PJSC",
    "count": 5,
-   "reports": 23,
-   "updated": "2026-11-26T23:05:23Z"
+   "reports": 24,
+   "updated": "2026-11-28T01:05:13Z"
   },
   {
    "asn": 8402,
@@ -50,7 +50,7 @@
    "provider": "ASN-MGTS-USPD PJSC Moscow city telephone network",
    "count": 2,
    "reports": 6,
-   "updated": "2026-11-26T01:05:18Z"
+   "updated": "2026-11-28T01:05:13Z"
   },
   {
    "asn": 35816,

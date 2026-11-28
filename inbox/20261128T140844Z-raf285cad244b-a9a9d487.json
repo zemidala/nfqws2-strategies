@@ -1,0 +1,1 @@
+{"t":"2026-11-28T14:08:44Z","who":"raf285cad244b","ip":"42f7762f9475","name":"","items":[{"kind":"share","asn":8359,"provider":"MTS MTS PJSC","proto":"http","steps":["--lua-desync=fake:blob=0x00000000:badsum","--lua-desync=multisplit:pos=method+2"],"net":13335,"host":"rutracker.org","nfqws2":"1.3.4","ui":"1.36.2"}]}

@@ -594,3 +594,5 @@
 {"asn": 25513, "id": "646e06cf900d", "ip": "d54514bbc903", "kind": "works", "result": "same", "t": "2026-11-28T01:06:17Z", "who": "r0ff3df072cbd"}
 {"asn": 25513, "id": "6fe809890af5", "ip": "d54514bbc903", "kind": "works", "result": "same", "t": "2026-11-28T01:06:17Z", "who": "r0ff3df072cbd"}
 {"asn": 57214, "id": "47e15ac94216", "ip": "ee205bd56ea9", "kind": "share", "result": "pending", "t": "2026-11-28T06:55:29Z", "who": "r7949ee6e46fd"}
+{"asn": 25513, "id": "646e06cf900d", "ip": "901b1faa7afd", "kind": "fails", "result": "failed", "t": "2026-11-28T08:03:53Z", "who": "r5777ef7efb2f"}
+{"asn": 25513, "id": "6fe809890af5", "ip": "901b1faa7afd", "kind": "fails", "result": "failed", "t": "2026-11-28T08:03:57Z", "who": "r5777ef7efb2f"}
